@@ -1,83 +1,97 @@
-import requests
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 import time
 import pandas as pd
-from bs4 import BeautifulSoup
+# Initialize WebDriver
+driver = webdriver.Chrome()
+driver.maximize_window()
 
-# Base URLs
-PUBMED_BASE_URL = "https://pubmed.ncbi.nlm.nih.gov"
-EUTILS_EFETCH = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi"
+search_url = "https://pubmed.ncbi.nlm.nih.gov/?term=myxobacteria+genome&sort=date&size=200"
+driver.get(search_url)
+time.sleep(5)
 
-# Search query
-QUERY = "myxobacteria+AND+genome"
-
-# Headers to prevent blocking
-HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
-}
-
-# Dictionary to store extracted details
 articles_data = {"PMID": [], "Title": [], "Authors": [], "Journal": [], "DOI": [], "Article_Link": [], "Abstract": []}
 
-# Start scraping with pagination
-page = 1
-while True:
-    search_url = f"{PUBMED_BASE_URL}/?term={QUERY}&sort=date&size=10&page={page}"
-    print(f"Fetching page {page}: {search_url}...")
+page_num = 1
+max_pages = 2  # Limiting to the first two pages
 
-    response = requests.get(search_url, headers=HEADERS)
-    soup = BeautifulSoup(response.text, "html.parser")
+while page_num <= max_pages:
+    print(f"\n🔄 Scraping page {page_num}...\n")
 
-    # Extract articles
-    articles = soup.find_all("article", class_="full-docsum")
+    # Wait for articles to load
+    WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CLASS_NAME, "docsum-wrap")))
+    articles = driver.find_elements(By.CLASS_NAME, "docsum-wrap")
+
     if not articles:
-        print("No more articles found. Stopping pagination.")
+        print("❌ No articles found on this page!")
         break
 
-    for index, article in enumerate(articles):
-        try:
-            # Extract PMID
-            pmid_tag = article.get("data-pmid")
-            pmid = pmid_tag.strip() if pmid_tag else "No PMID"
+    total_articles = len(articles)
+    print(f"📝 Found {total_articles} articles on page {page_num}.")
 
-            # Extract Title
-            title_tag = article.find("a", class_="docsum-title")
-            title = title_tag.text.strip() if title_tag else "No Title Found"
+    for index in range(total_articles):
+        try:
+            # Refresh article elements to avoid stale references
+            articles = driver.find_elements(By.CLASS_NAME, "docsum-wrap")
+            if index >= len(articles):
+                print(f"⚠️ Skipping article {index + 1}, it no longer exists.")
+                continue
+
+            article = articles[index]
+
+            # Extract Title & Article Link
+            title_tag = article.find_element(By.CLASS_NAME, "docsum-title")
+            title = title_tag.text.strip()
+
+            # Get href attribute and check if it's a relative or absolute URL
+            href = title_tag.get_attribute("href")
+            if href.startswith("/"):  # Relative path
+                article_link = "https://pubmed.ncbi.nlm.nih.gov" + href
+            else:  # Absolute URL
+                article_link = href
+
+            print(f"🔗 Article link: {article_link}")
+
+            # Extract PMID
+            pmid_element = article.find_elements(By.CLASS_NAME, "docsum-pmid")
+            pmid = pmid_element[0].text.strip() if pmid_element else "No PMID"
 
             # Extract Authors
-            authors_tag = article.find("span", class_="docsum-authors full-authors")
-            authors = authors_tag.text.strip() if authors_tag else "No Authors Found"
+            authors_element = article.find_elements(By.CLASS_NAME, "docsum-authors")
+            authors = authors_element[0].text.strip() if authors_element else "No Authors Found"
 
-            # Extract Journal
-            journal_tag = article.find("span", class_="docsum-journal-citation full-journal-citation")
-            journal = journal_tag.text.strip() if journal_tag else "No Journal Found"
+            # Extract Journal & Citation
+            journal_element = article.find_elements(By.CLASS_NAME, "full-journal-citation")
+            journal = journal_element[0].text.strip() if journal_element else "No Journal Found"
 
             # Extract DOI
-            doi = "No DOI Found"
-            citation_text = journal_tag.text if journal_tag else ""
-            if "doi: " in citation_text:
-                doi = citation_text.split("doi: ")[-1].strip()
+            citation_element = article.find_elements(By.CLASS_NAME, "docsum-journal-citation")
+            citation_text = citation_element[0].text if citation_element else ""
+            doi = citation_text.split("doi: ")[1].strip() if "doi: " in citation_text else "No DOI Found"
 
-            # Extract Article Link
-            article_link = title_tag["href"] if title_tag else "No Link"
-            full_article_link = f"{PUBMED_BASE_URL}{article_link}" if article_link.startswith("/") else article_link
+            # Open article link in a new tab to extract Abstract
+            driver.execute_script("window.open(arguments[0]);", article_link)
+            driver.switch_to.window(driver.window_handles[-1])
+            time.sleep(3)
 
-            # Fetch the article page to get the abstract
-            article_response = requests.get(full_article_link, headers=HEADERS)
-            article_soup = BeautifulSoup(article_response.text, "html.parser")
+            try:
+                print("🔍 Attempting to extract abstract...")
+                # Wait for the abstract element to load
+                abstract_element = WebDriverWait(driver, 10).until(
+                    EC.presence_of_element_located((By.CSS_SELECTOR, "div.abstract-content.selected p"))
+                )
+                abstract = abstract_element.text.strip()
+                print(f"✅ Abstract extracted: {abstract[:50]}...")
+            except Exception as e:
+                abstract = "No Abstract Found"
+                print(f"❌ Error extracting abstract: {e}")
+                print(f"Current URL: {driver.current_url}")
 
-            abstract_tag = article_soup.find("div", class_="abstract-content selected")
-            abstract = abstract_tag.text.strip() if abstract_tag else "No Abstract Found"
-
-            # If no abstract found, try fetching via API
-            if abstract == "No Abstract Found" and pmid != "No PMID":
-                efetch_params = {
-                    "db": "pubmed",
-                    "id": pmid,
-                    "retmode": "xml"
-                }
-                api_response = requests.get(EUTILS_EFETCH, params=efetch_params)
-                api_soup = BeautifulSoup(api_response.text, "xml")
-                abstract = api_soup.find("AbstractText").text.strip() if api_soup.find("AbstractText") else "No Abstract Found"
+            driver.close()
+            driver.switch_to.window(driver.window_handles[0])
+            time.sleep(2)
 
             # Store data
             articles_data["PMID"].append(pmid)
@@ -85,30 +99,35 @@ while True:
             articles_data["Authors"].append(authors)
             articles_data["Journal"].append(journal)
             articles_data["DOI"].append(doi)
-            articles_data["Article_Link"].append(full_article_link)
+            articles_data["Article_Link"].append(article_link)
             articles_data["Abstract"].append(abstract)
 
-            # Print article details
-            print("\n====================")
-            print(f"PMID: {pmid}")
-            print(f"Title: {title}")
-            print(f"Authors: {authors}")
-            print(f"Journal: {journal}")
-            print(f"DOI: {doi}")
-            print(f"Article Link: {full_article_link}")
-            print(f"Abstract: {abstract[:300]}...")  # Truncated abstract for readability
-            print("====================\n")
-
-            time.sleep(2)  # Pause to prevent blocking
-
+        except IndexError:
+            print(f"⚠️ IndexError: Skipping article {index + 1} (out of range).")
         except Exception as e:
-            print(f"❌ Error scraping article {index + 1} on page {page}: {e}")
-            continue
+            print(f"❌ Error scraping article {index + 1}: {e}")
 
-    page += 1  # Move to next page
+    # Break after the first two pages
+    if page_num >= max_pages:
+        print("\nReached the maximum number of pages. Exiting...\n")
+        break
+
+    # Click "Next" button if available
+    try:
+        next_button = WebDriverWait(driver, 5).until(
+            EC.element_to_be_clickable((By.CSS_SELECTOR, "button[aria-label='Next page']"))
+        )
+        driver.execute_script("arguments[0].click();", next_button)
+        time.sleep(5)
+        page_num += 1
+    except:
+        print("\n🚀 No more pages found. Exiting...\n")
+        break
 
 # Save to Excel
 df = pd.DataFrame(articles_data)
-excel_filename = "pubmed_myxobacteria_genome.xlsx"
-df.to_excel(excel_filename, index=False, engine="openpyxl")
-print(f"\n✅ Data saved to {excel_filename}")
+df.to_excel("pubmed_myxobacteria_genome_2.xlsx", index=False)
+print("\n✅ Data saved to pubmed_myxobacteria_genome.xlsx")
+
+# Close WebDriver
+driver.quit()
