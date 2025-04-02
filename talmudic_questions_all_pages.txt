@@ -1,0 +1,1572 @@
+Question: Talmudic Question #212
+Link: https://schaechter.asmblog.org/schaechter/2024/08/talmudic-question-212.html
+Text:
+In the same spirit as Talmudic Question #4, posted on December 19, 2006, here's another similarly "crazy" one...
+What if all the hydrogen bonds of a cell decided to go on strike and stop their duties all at once? Which cellular process would be affected first? How long would it take for the cell to die?
+Do you want to comment on this post? We would be happy about it! Please comment on Mastodon, Bluesky, or on 𝕏 (formerly Twitter).
+================================================================================
+
+Question: Talmudic Question #211
+Link: https://schaechter.asmblog.org/schaechter/2024/03/talmudic-question-211.html
+Text:
+Contributed by Seth Bordenstein (@Symbionticism) on 𝕏 and Bluesky)
+What is the craziest thing a phage enzyme can do to eukaryotic hosts?
+Do you want to comment on this post? We would be happy about it! Please comment on mastodon, Bluesky, or on 𝕏 (formerly Twitter).
+================================================================================
+
+Question: Talmudic Question #210
+Link: https://schaechter.asmblog.org/schaechter/2024/02/talmudic-question-210.html
+Text:
+The endosymbiosis of a cyanobacterium led to the formation of the photosynthetic organelle, the chloroplast. Along evolutionary history this organelle proved quite plastic; there are many non-photosynthetic variants with very different functions, e.g., chromoplasts, amyloplasts, apicoplasts. Thus, the name plastid to refer to the group. In contrast, the mitochondrion, the other organelle derived from endosymbiosis, does not display the same degree of plasticity. Why (in a teleonomic sense) such different evolutionary outcomes?
+Do you want to comment on this post? We would be happy about it! Please comment on mastodon, Bluesky, or on 𝕏 (formerly Twitter).
+================================================================================
+
+Question: Talmudic Question #209
+Link: https://schaechter.asmblog.org/schaechter/2023/11/talmudic-question-209.html
+Text:
+What general rules do you see emerging from the ongoing studies of microbial communities that will inform our understanding of their function?
+Do you want to comment on this post? We would be happy about it! Please comment on mastodon, Bluesky, or on 𝕏 (formerly Twitter).
+================================================================================
+
+Question: Talmudic Question #208
+Link: https://schaechter.asmblog.org/schaechter/2023/10/talmudic-question-208.html
+Text:
+by Memo Berkmen
+Memo Berkmen, long time friend and STC fan, sent us this Talmudic Question: "Can you imagine a place where conditions have remained relatively constant throughout much of Earth's history, a place where microbes evolved very slowly over 3 billion years such that if we compared the sequences of modern inhabitants to their 3-billion-year-old ancestors, we would see very few changes in their genomes or metabolisms?"
+Do you want to comment on this post? We would be happy about it! Please comment on Mastodon, Bluesky, or on 𝕏 (formerly Twitter).
+================================================================================
+
+Question: Talmudic Question #207
+Link: https://schaechter.asmblog.org/schaechter/2023/09/talmudic-question-207.html
+Text:
+How come the smallest cells of a given bacterial species are also the ones with the slowest growth rate?
+Do you want to comment on this post? We would be happy about it! Please comment on mastodon or Bluesky.
+================================================================================
+
+Question: Talmudic Question #206
+Link: https://schaechter.asmblog.org/schaechter/2023/08/talmudic-question-206.html
+Text:
+by Roberto
+Two recent events prompt me to post this (double) Talmudic Question(s). First, I had a lot of thoughts inspired by Christoph's Monday post on stop codons being recognized by charged tRNAs in a trypanosomatid: "Stops making sense." How bizarre can non-canonical codes get? Second, I was reading posts from the past.
+With the code already in mind, I was immediately struck when I landed on this gem from 2008 by the late Charley Yanofksy. (Full disclosure, Charley was my post-doctoral mentor more than forty years ago, so I may be biased.) In his post, he poses several questions related to tRNA and tRNA synthetases. Fifteen years ago, Charley felt that although the genetic code was well-established, "a very exciting unsolved problem is discovering how codons were related to amino acids in the evolution of protein synthesis." Following this statement, he posed several well-defined questions. These are my favorite two:
+How did a tRNA and a tRNA synthetase first evolve, and what was their ancestral source?
+How were the genes for the first tRNA and tRNA synthetase duplicated and how was their specificity varied?
+His questions had a Talmudic feeling back then; I think they still do! What answers come to mind?
+Do you want to comment on this post? We would be happy about it! Please comment on mastodon, or Bluesky.
+================================================================================
+
+Question: Talmudic Question #205
+Link: https://schaechter.asmblog.org/schaechter/2023/07/talmudic-question-205.html
+Text:
+There are plenty of natural product families that inhibit essential enzymatic functions in cell wall synthesis (e.g., ß-lactams, glycopeptides), translation (e.g., aminoglycosides, tetracyclines) and transcription (e.g. rifampicin). Yet, there are very few (if any) natural products that specifically inhibit bacterial DNA polymerase. Why have such compounds not been found?
+Do you want to comment on this post? We would be happy about it! Please comment on Mastodon or on Bluesky.
+================================================================================
+
+Question: Talmudic Question #204
+Link: https://schaechter.asmblog.org/schaechter/2023/05/talmudic-question-204.html
+Text:
+Mitochondria evolved from an ancestral alpha proteobacterium. However, present day mitochondrial DNAs (mtDNA) from plants and animals are very different. While animal mtDNAs are about 16.5 kb in size, plant mtDNAs range from 200 kb to 2,000 kb. Gene numbers are similar, but most of the additional mtDNA in plants is composed of large introns, repeats and non-coding regions. Animal mtDNA are also usually circular, whereas plant mtDNAs are a collection of linear DNAs, along with smaller circular and branched molecules (see here for a review).
+What different selective pressures might have led to these two vastly different evolutionary outcomes?
+Do you want to comment on this post? We would be happy about it! Please comment on Mastodon or on Twitter.
+================================================================================
+
+Question: Talmudic Question #203
+Link: https://schaechter.asmblog.org/schaechter/2023/03/talmudic-question-203.html
+Text:
+What sensory information allows you to recognize/identify microbial activities in their natural settings?
+Do you want to comment on this post? We would be happy about it! Please comment on Mastodon or on Twitter.
+================================================================================
+
+Question: Talmudic Question #202
+Link: https://schaechter.asmblog.org/schaechter/2023/02/talmudic-question-202.html
+Text:
+Following Janie’s Monday post, we thought of this question:
+Why do bacteria – think Agrobacterium, Streptomyces, Borrelia among others  – not care at all if they have linear and circular chromosomes and episomes (plasmids, prophages) side-by-side in one cell?
+Do you want to respond to this TQ? We would be happy about it! Please do so on Mastodon or on Bluesky.
+================================================================================
+
+Question: Talmudic Question #200 ─ Our Twitter Poll
+Link: https://schaechter.asmblog.org/schaechter/2022/12/talmudic-question-200_poll.html
+Text:
+by Christoph
+To celebrate our two hundredth Talmudic Question "What is the leading cause of bacterial or ar­chaeal death?" we made a poll on Twitter. Thanks to our followers we received more than 100 votes, wow! We suggested the following possible answers, presented here with the results:
+(This is an accumulated table of the results of two polls as Twitter only allows polls with 4 choices each.)
+I will be wary of scoring the choices made by our Twitter followers, and just leave it at that. Think about it yourself ─ in good talmudic tradition! In the following, I will make some remarks on what is known about each of our proposed death causes. Since my "remarks" add up to a calcu­la­ted reading time of just under 8 minutes, I suggest that you simply jump to the numbered items that interest you the most; the numbering follows that of the poll.
+1. Suicide  Bacterial cells can commit suicide, take Bacillus subtilis for example. Sporulation of this bacterium is a cell densi­ty‑de­pendent response to nutrient deprivation that results in the forma­tion of an endospore within the so-called "mother cell." The release of the mature spore happens by lysis of the mother cell. Membrane fissions in the mother cell releases the chromosomal DNA into the environment and preceeds degradation of the peptidogylcan. The expression of an extra­cellular nuclease, NucB, that degrades the released chrDNA is triggered by the mother cell-specific sigma factor σK, a clear sign that this is not an accident but programmed cell death (PCD). (An asi­de: the term 'apoptosis' should be avoided here, since cell biologists have reserved it for multicel­lular organisms with very distinct conserved pathways for apoptosis that haven't yet been traced down to bacteria and archaea.) The suicide of a sporulating Bacillus mother cell is thus quite com­parable to Japanese seppuku (often called harakiri in the West), in which the self-slayer rams a short sword into his stomach and intestines to cause himself to leak and bleed to death. It could very well be that the self‑dissolution of the mother cell evolved to give the mature spore a chance to spread and not be trapped, so to speak, in the cytoplasmic soup and viscous chrDNA surround­ing it (experimental evidence for this is still missing). Most certainly, however, suicide is not the leading death cause among bacilli, because in wild-type strains the proportion of sporu­lating cells in a population tends to be low, in the <30% range, and is high in laboratory strains (>80%) only because they have been selected for to study, you guessed it, sporulation.
+In multicellular organisms, it is common for individual cells to commit suicide for the benefit of the whole tissue, for example, during tissue remodeling in development ─ think of the "disappear­ance" of the initially existing webs between the fingers of the hands in embryos. A comparable process also exists in bacteria, another case of programmed cell death (PCD) and distinct from sporulation.
+When polymorphonuclear leukocytes of the human immune system sense nearby bacteria, they secrete hydrogen peroxide, H2O2, in a burst to kill them during phagocytosis ("bleach" is mention­ed in: death cause 6. "other"). If these bacteria happen to be related to E. coli STEC or Shigella dys­enteriae carrying a 933W or H‑19B prophage (phage lambda relatives), the hydrogen peroxide re­leased by the leukocytes triggers the induction of the prophage in a small part of the bacterial po­pulation, as studied by Loś et al. (2013). During phage propagation in the host, the phage‑encoded stxAB genes are expressed and Shiga toxin synthesized. When phage propagation finally results in host lysis, the phage progeny is released together with Shiga toxin.
+That's when the counter attack starts: while the B subunit of Shiga toxin docks to the membrane of human cells carrying the cognate receptor and triggers its uptake, the A subunit, once internal­ized, attacks the cytosolic ribosomes, cutting and thus inactivating the ribosomal 28S rRNA, thus blocking translation. And as it is with toxins, they are not consumed by one-time use. Cells with inactivated ribosomes are doomed. Whether one can speak of "altruism" here remains to be dis­cussed. What is clear, however, is that the self‑sacrifice of a few bacterial cells promotes the sur­vival of the entire population.
+2. Exhaustion  In the disqus comments section for TQ #200, our reader Morris39 remarked (com­plained?) that "starvation" is missing from the list of death causes. There is no doubt that for bac­teria in the laboratory, "starvation" is the primary cause of death after nutrients are depleted. In E. coli, for example, the death phase begins after approximately one week into stationary phase with successive lysis of the culture. Note that it is not so much the lack of nutrients that causes death, but the lack of efficient disposal of toxic metabolic end products in a contained culture and shifts in pH. But then, and this is noteworthy, there is a small percentage of cells that keep them­­selves alive for long time periods in the mass grave of a culture by gorging on cadavers, "GASPing for life in stationary phase" as Mechas Zambrano and Roberto termed this habit. In such a station­ary culture, feeble growth and death balance each other such that the cell number remains almost constant over many months.
+Figure 1. Formation of heterocysts (open ar­row­head) and akinetes (closed arrow­head) in chains of the filamentous cyano­bacterium Anabaena cylindrica. Courtesy of J. E. Frías and E. Flores, C.I.C.I.C., Uni­versidad de Sevilla, Spain. Frontispiece: Single plaques of Salmonella phage PRD1 on agar plate. By B. Henze, Leibniz In­sti­tute DSMZ. Source
+Unlike E. coli, bacteria like Deinococcus radiodurans and a number of cyanobacteria cannot be starved to death. Fila­mentous cyanobacteria like Nostoc or Anabaena form so-called Akinetes within strings of cells (Figure 1) under unfa­vorable growth conditions. Akinetes come close to Bacillus spores with respect to long-term resistance to adverse phy­sical conditions, they're not heat resistant though. The sur­vival skills of Deinococcus are by all means extreme (see here STC). In a recent post from 2021, Elio wrote:" D. radio­durans [also] placed outside the International Space Sta­tion, revealed that cells in pellets 500 microns thick stayed alive after 3 years in space. Once cultivated, they repaired their damaged DNA via the products of uvrA gene (nucleo­tide excision repair) and uvdE gene (UV-damage excision repair)." Under space conditions there is certainly no such thing as "dormancy" or "hibernation" or even "suspended animation," and biology lacks an apt term for this form of unlife.
+"Exhaustion" in bacteria could also mean the de­cli­ne of their "re­pro­duc­ti­ve out­put," in other words senescence. That's exactly what Martin Ackermann studied in Cau­lo­bact­er cres­cen­tus, a bacterium with a dimorphic life cycle (see here is STC). Briefly, a "stalked cell" attaches to a sub­strate via the holdfast on the tip of its stalk, grows, and subsequently divides, with the mother cell remaining at­tached while the flagellated daughter cell, the "swarmer cell," takes flight (and turns into a stalked cell once it finds a suitable substrate, thus completing the cycle). By flushing away the swarmers with fresh medium and counting division events in the stalkers, he found that Cau­lo­bac­ter cells do indeed gradually age and cea­se di­vi­ding af­ter 60 ge­ne­ra­tions, on ave­ra­ge. While some cells pro­du­ced up to 130 pro­ge­ny cells in 300 hours, most stop­ped di­vi­ding or di­vi­ded more slow­ly with in­crea­s­ing age.
+Yet, what is true for Caulobacter must not necessarily be true for elephants or E. coli. Wang et al. (2010) seeded cells of two distantly related E. coli strains, B/r and MG1655, into microfluidic chan­nels and followed the steady-state growth of ~105 individual "mother" cells over >100 generations, that is, cell divisions visible by microscopic inspection. They found strikingly constant growth rates of mother cells and their immediate sister cells for hundreds of generations. Despite this robust growth, cells died due to accumulation of damages during the course of the experiments. This was most evident in MG1655 lexA3 mutant cells that are unable to respond to damage via the SOS re­sponse and had a constant mortality rate of ~3% from the start. In contrast, the death rate wild ­type MG1655 cells gradually increased from <0.1% at start to reach <2% after 150 generations. The authors concluded:"from the qualitative difference in death rate between MG1655 and its lexA3 mutant derivative (...) that death of E. coli cells cannot be due to random events such as DNA da­mage but must be a consequence of growth-independent accumulation of lethal element." Death by a "lethal element" but not senescence or "exhaustion" ─ this isn't easy to comprehend.
+3. Murder by kin  I was a bit surprised at how few of our survey participants considered "murder by kin" to be a relevant cause of death for bacteria. It is now well known that bacteria and archaea in the wild prefer to congregate in biofilms. And such aggregates are the venue for every conceiv­able form of cooperation and competition, and this applies to mixed‑species and mono‑species biofilms alike. When it comes to co‑inhabitants in biofilms, Vibrio cholerae, for example, are not squeamish: all other bacteria that come close enough to them are first shot on suspect ─ with their T6SS ─ and only if those hit have an antidote to the injected toxin do they survive this "identi­ty check." This may well be kin, that is, a genetically almost identical Vibrio cholerae lacking the an­tidote. We had described this murder in the family setting in detail here, and mentioned that it is by no means restricted to the Vibrios. Several "secretion systems" ─ we currently know nine ─ are widespread among bacteria, and they probably all serve the purpose of keeping unwanted neigh­bors at arm's length, whether they are from the closer or more distant family.
+Figure 2. (C) A high density of phage par­ticles within Wolbachia is shown; phage tails are occasionally visible and noted by white arrowheads in the inset. Bar=200 nm; inset bar=100 nm. (D) Virion-free (lo­wer right) and virion-containing Wol­bachia (upper right) localized near two N. vitripennis spermatids are shown. Solid ar­rowheads denote phage particles in­side Wolbachia, and Ax and Md denote spermatid axonemes and mitochondrial derivatives, respectively. Bar = 200 nm. Source
+4. Predation by phages  By a wide margin, the preferred cause of death of bacteria and archaea in our poll (see fron­tispiece). And indeed, to my knowledge, there are no de­scribed bacteria and archaea that are not preyed upon by well over a dozen species‑specific phages (including those with a broad host range). Not even those that sport multiple sophisticated phage defense systems escape phage preda­tion, but individual cells may. And this is also true for those species that we know only from their genome sequences, which usually contain integrated prophage genomes or tell­tale remnants thereof.
+I pick here only one particularly impressive example, the phage WO, which has accompanied Wolbachia since this bacterium infected more than half of all known arthropods and settled there as endosymbiont (and has dramatic influ­ences on the sex of the host's offspring). It is difficult to estimate, let alone measure, the contribu­tion of phage WO to the death rate of intracellular Wolbachia (Figure 2).
+5. Predation by protists  In the lab, protists are most often successfully fed with bacteria, well‑ known examples being Acanthamoeba (see here in STC) and, of course, Dictyostelium. The latter eats away holes in a bacterial lawn that look like clear phage plaques at first glance (Figure 3). From such artificial lab conditions, under which "killing by protists" is the main cause of death for bacteria, it is of course not possible to extrapolate to conditions in the wild, or even in the human gut.
+In the upper layers of the oceans, the number of picocyanobacteria doubles about every 2 days, but since their concentrations remain quite stable for weeks, regardless of seasonal fluctuations, half of them must either die and lyse, or fall prey to predators, mostly both the ubiquitous cyano­phages and protists. Although by orders of magnitude less abundant than phages and bacteria, both heterotrophic and phototrophic protists, which often go "sideways" in their feeding, are ef­ficient hunters. For example, a single Proro­cent­rum dinoflagellate ─ more a trapper than a hunter ─ can easily catch ~50 prokaryotic cells per day in its mucosphere for immediate consumption (see here in STC).
+Figure 3. Dictyostelium (clear plaques) feed­ing on a lawn of Klebsiella bacteria (white). Image by Sam Manna
+It is only anecdotal and therefore not really scientifically re­levant, but I vividly remember the horror that haunted Blan­ca Perez Sepulveda during her PhD in David Scanlan's lab at Warwick University, UK, that the "grazers," the omnivorous protists, would decimate her precious long-term Synechococ­cus cultures; she found it much easier to tame the phages.
+6. Other causes  Alex Bisson (@Archaeon_Alex) suggested bleach as one of "other causes," and that was indeed appro­priate as physicians and microbiologists often use it for ef­ficient surface disinfection. In more natural settings, chlo­rine-based bleaches won't play a large role as chlorine is simply too reactive with anything that is even remotely oxidizable. This is different for peroxide-based bleaches as hydrogen peroxide (H2O2) and superoxide (•O2−), which belong to the reactive oxygen species (ROS), are byproducts of cell metabolism in all domains of life.
+Many bacteria avoid being killed by ROS by the production of catalases, enzymes with among the highest known turnover numbers. Unless they can't, which is the case in picocyanobacteria. This deficiency in catalase in Prochlorococcus and Synechococcus results in their failure to form colo­nies on solid media unless they are grown in the presence of "helper" bacteria like catalase-posi­tive Alteromonas (first explored by Morris et al. (2008) and also briefly mentioned here in STC).
+Conclusion  For all the death causes we asked about, they do occur in nature and in the lab. Each of them is the main death cause of individual bacterial cells under certain conditions. But it is per­haps presumptuous to try to pin down a single cause of death as the predominant one among bacteria and archaea in general. This could also be a valid answer to our Talmudic Question, but was not given as a choice in the poll. Our fault. Or, was it?
+================================================================================
+
+Question: Talmudic Question #201
+Link: https://schaechter.asmblog.org/schaechter/2022/11/talmudic-question-201.html
+Text:
+Given that today is the day that the US celebrates Thanks­giving... What is Pseudomonas syringae pv phaseolicola – inhabitants of the green beans used for the traditional casserole – most thankful for?
+================================================================================
+
+Question: Talmudic Question #200
+Link: https://schaechter.asmblog.org/schaechter/2022/10/talmudic-question-200.html
+Text:
+What is the leading cause of bacterial or archaeal death?
+================================================================================
+
+Question: Talmudic Question #199
+Link: https://schaechter.asmblog.org/schaechter/2022/09/talmudic-question-199.html
+Text:
+Biosynthetic genes for many antibiotics evolved hun­dreds of millions of years ago. Resis­tance genes evolved concurrently among neighboring bacteria. If most neigh­bors to anti­biotic producers are resistant, what is the selective advantage that prevented loss of the biosyn­thetic genes over millions of years?
+================================================================================
+
+Question: Talmudic Question #198
+Link: https://schaechter.asmblog.org/schaechter/2022/08/talmudic-question-198.html
+Text:
+Biologists are often criticized because they do not have a watertight definition of 'life.' Is that really so bad? Does that make biology a 'lesser' science?
+================================================================================
+
+Question: Talmudic Question #197
+Link: https://schaechter.asmblog.org/schaechter/2022/07/talmudic-question-197.html
+Text:
+Why aren’t any Archaea known to make spores?
+================================================================================
+
+Question: Talmudic Question #196
+Link: https://schaechter.asmblog.org/schaechter/2022/05/talmudic-question-196.html
+Text:
+The establishment of an oxygen-respiring bacterium in the cytoplasm of an archeon might have given rise to the eukaryotes. What was the first adaptive trait in the evo­lution of this symbiosis and why was it selected?
+================================================================================
+
+Question: Talmudic Question #195
+Link: https://schaechter.asmblog.org/schaechter/2022/03/talmudic-question-195.html
+Text:
+Can you imagine if Schrödinger's cat is hiding some­where – and if yes: where – in micro­biology?
+================================================================================
+
+Question: Talmudic Question #194
+Link: https://schaechter.asmblog.org/schaechter/2022/02/talmudic-question-194.html
+Text:
+Imagine that some life forms in other planets resemble Bacteria or Archaea. Would you guess that they are most like the Gram positives, the Gram negatives or the Archaea?
+================================================================================
+
+Question: Talmudic Question #193
+Link: https://schaechter.asmblog.org/schaechter/2022/01/talmudic-question-193.html
+Text:
+contributed by Michael Eisen
+Do you consider mitochondrial DNA to be part of a eukaryote's genome?
+Michael Eisen had first posed this question on his Twitter, and kindly allowed us to "borrow" it. There were quite a few interesting answers on Twitter, you can read them here.
+================================================================================
+
+Question: Talmudic Question #192
+Link: https://schaechter.asmblog.org/schaechter/2021/11/talmudic-question-192.html
+Text:
+Contributed by Pok Man Leung
+The natural habitats of chemolithotrophs such as Lepto­spirillum and Pyrolobus contain organic compounds. Yet, when grown in the lab, these microbes are extremely sen­sitive to trace amounts of organic compounds. What is the basis of this sensitivity in culture?
+================================================================================
+
+Question: Talmudic Question #191
+Link: https://schaechter.asmblog.org/schaechter/2021/10/talmudic-question-191.html
+Text:
+Contributed by Michael Malamy
+As a model organism, E. coli played (and continues to play) a key role in molecular biology. Yet, its role in the gut does not appear to be so critical. How is it that as part of the gut microbiota the strict anaerobes (or nanaerobes) outnumber the Enterobacteriaceae by at least 1000 to 1?
+================================================================================
+
+Question: Talmudic Question #190
+Link: https://schaechter.asmblog.org/schaechter/2021/09/talmudic-question-190.html
+Text:
+Which cause more severe diseases in humans, RNA or DNA viruses?
+================================================================================
+
+Question: Talmudic Question #189
+Link: https://schaechter.asmblog.org/schaechter/2021/08/talmudic-question-189.html
+Text:
+Can you imagine an active mode of motion that unicellular microbes are not capable of, but multicellular eukaryotes are?
+================================================================================
+
+Question: Talmudic Question #188
+Link: https://schaechter.asmblog.org/schaechter/2021/07/talmudic-question-188.html
+Text:
+Xerces blue butterfly. Courtesy of Field Mu­seum/Corrie Moreau
+Best we know, which contains the largest number of species: the Bacteria and Archaea, the Fungi, or the Protists?
+================================================================================
+
+Question: Talmudic Question #187
+Link: https://schaechter.asmblog.org/schaechter/2021/05/talmudic-question-187.html
+Text:
+contributed by Raymond Cox
+Why does Brevibacterium grow so slowly?
+This is the bacterium which gives an orange color to the rinds of cheeses which are matured in brine or by being rubbed on the surface with salt crystals. It grows in stan­dard peptone-yeast extract-salt media just like E. coli but it takes more than a week for colonies to form where E. coli would grow up in a few hours.
+================================================================================
+
+Question: Talmudic Question #186
+Link: https://schaechter.asmblog.org/schaechter/2021/04/talmudic-question-186.html
+Text:
+In their classical experiments, Oswald Avery, Colin Mac­Leod, and Maclyn McCarty showed that streptococci in a specific growth phase take up exogenous DNA, resulting in a transformation of their phenotype (note that they never talked of "transforming DNA into the streptococci", as you find it regularly in the literature, which is embar­rassing.) These experiments proved that DNA is the ge­netic material. But Avery et al. did not speculate why the streptococci would be interested to take up DNA in the first place. Can you think of a reason(s) why and how streptococci and many other bacteria − E. coli being a notable exception − evolved "natural competence" ?
+x
+================================================================================
+
+Question: Talmudic Question #185
+Link: https://schaechter.asmblog.org/schaechter/2021/03/talmudic-question-185.html
+Text:
+Can you conceive of a virus that can divide by binary fission?
+================================================================================
+
+Question: Talmudic Question #184
+Link: https://schaechter.asmblog.org/schaechter/2021/02/talmudic-question-184.html
+Text:
+What will be found in the samples collected by Perseverance once they are brought to Earth and fully analyzed?
+================================================================================
+
+Question: Talmudic Question #183
+Link: https://schaechter.asmblog.org/schaechter/2021/01/talmudic-question-183.html
+Text:
+Can you think of any features of a viral genome that might allow you to tell if it is capable of causing a pandemic?
+================================================================================
+
+Question: Talmudic Question #182
+Link: https://schaechter.asmblog.org/schaechter/2020/11/talmudic-question-182.html
+Text:
+Difficult as it may be to predict which agent will cause the next pandemic, which *single* measure would you re­commend should be taken now to mitigate its future effects?
+================================================================================
+
+Question: Talmudic Question #181
+Link: https://schaechter.asmblog.org/schaechter/2020/10/talmudic-question-181.html
+Text:
+Some authors have written describing single cells as "cog­nitive" or "agents with agendas." Cognition may not be far from consciousness… . In whatever sense you choose, could you argue that bacteria have conscious­ness?
+================================================================================
+
+Question: Talmudic Question #180
+Link: https://schaechter.asmblog.org/schaechter/2020/09/talmudic-question-180.html
+Text:
+Why didn’t mitochondria keep a DnaA-dependent origin of replication?
+================================================================================
+
+Question: Talmudic Question #179
+Link: https://schaechter.asmblog.org/schaechter/2020/08/talmudic-question-179.html
+Text:
+There is talk that Vibrio natrigens may supplant Escheri­chia coli as the model system for many bacterial studies. Do you think that the day of such model systems may have passed and, if so why?
+================================================================================
+
+Question: Talmudic Question #178
+Link: https://schaechter.asmblog.org/schaechter/2020/07/talmudic-question-178.html
+Text:
+Many environmental bacteria appear to be ob­li­gate oli­go­trophs, that is they can only be cul­ti­va­ted on media con­tain­ing very low nu­trient con­cen­tra­tions. There are pro­bab­ly many rea­sons for this.  Which one do you favor and why?
+================================================================================
+
+Question: Talmudic Question #177
+Link: https://schaechter.asmblog.org/schaechter/2020/05/talmudic-question-177.html
+Text:
+A twist on Schrödinger’s Cat... Instead of radioisotope, a Geiger counter, a poison and a cat, inside a sealed box with a light and kept at ambient temperature and atmo­spheric pressure, you place a Winogradsky column and a sealed vial of lyophilized Bacillus subtilis spores. The vi­able counts in the column and in the vial are the same at t0, around 1010. What are the viable counts in the column and in the vial after 109 years? Why?
+================================================================================
+
+Question: Talmudic Question #176
+Link: https://schaechter.asmblog.org/schaechter/2020/04/talmudic-question-176.html
+Text:
+Currently, when a bacterial or archaeal genus or species has been well characterized but is yet-uncultured, it is given 'Candidatus' status. Should this practice be con­tin­ued or is time to abolish it? Why?
+================================================================================
+
+Question: Talmudic Question #175
+Link: https://schaechter.asmblog.org/schaechter/2020/03/talmudic-question-175.html
+Text:
+contributed by Morgan Feeney, PhD (@Mostlymicrobia)
+Are there any bacterial species that simply never form biofilms / are genetically incapable of doing so?
+================================================================================
+
+Question: Talmudic Question #174
+Link: https://schaechter.asmblog.org/schaechter/2020/02/talmudic-question-174.html
+Text:
+Imagine that the great majority of the microbes on Earth could be cultivated on laboratory media. How do you suggest that, in practice, we handle their humongous number?
+================================================================================
+
+Question: Talmudic Question #173
+Link: https://schaechter.asmblog.org/schaechter/2020/01/talmudic-question-173.html
+Text:
+Can you envisage a Winogradsky column consisting of only Gram-negative bacteria (or just Gram-positives, for that matter)?
+================================================================================
+
+Question: Talmudic Question #172
+Link: https://schaechter.asmblog.org/schaechter/2019/12/talmudic-question-172.html
+Text:
+Can you think of a vertebrate other than ruminants that CANNOT be reared under germ-free conditions?
+================================================================================
+
+Question: Talmudic Question #171
+Link: https://schaechter.asmblog.org/schaechter/2019/11/talmudic-question-171.html
+Text:
+Why are Gammaproteobacteria the weeds of microbial communities?
+This TQ was contributed by Ellie Arrington, PhD student at UCSB.
+================================================================================
+
+Question: Talmudic Question #170
+Link: https://schaechter.asmblog.org/schaechter/2019/10/talmudic-question-170.html
+Text:
+Why is RNA replication limited to the viruses and viroids?
+================================================================================
+
+Question: Talmudic Question #169
+Link: https://schaechter.asmblog.org/schaechter/2019/09/talmudic-question-169.html
+Text:
+Lactose is rarely found in Nature except for mammalian milk. How come?
+================================================================================
+
+Question: Talmudic Question #168
+Link: https://schaechter.asmblog.org/schaechter/2019/08/talmudic-question-168.html
+Text:
+Are there classes of genes that cannot be productively transmitted by phages (that is, cannot be transduced)?
+================================================================================
+
+Question: Talmudic Question #167
+Link: https://schaechter.asmblog.org/schaechter/2019/07/talmudic-question-167.html
+Text:
+What is a microbe? (Defend your definition.)
+================================================================================
+
+Question: Talmudic Question #166
+Link: https://schaechter.asmblog.org/schaechter/2019/06/talmudic-question-166.html
+Text:
+Why haven’t eukaryotes developed a CRISPR system? (the immune system doesn’t count)
+================================================================================
+
+Question: Talmudic Question #165
+Link: https://schaechter.asmblog.org/schaechter/2019/05/talmudic-question-165.html
+Text:
+Describe the properties of a yet-to-arise new DOMAIN of life.
+(The presently known domains being Archaea, Bacteria, and Eukaria)
+================================================================================
+
+Question: Talmudic Question #164
+Link: https://schaechter.asmblog.org/schaechter/2019/04/talmudic-question-164.html
+Text:
+On Earth, L-amino acids in proteins go with D-ribo- or D-deoxyribo-nucleotides. At which point in time during the evolution of living systems was the decision made to make use of only one of the enantiomer pairs?
+================================================================================
+
+Question: Talmudic Question #163
+Link: https://schaechter.asmblog.org/schaechter/2019/03/talmudic-question-163.html
+Text:
+Replication, transcription and translation achieve fidelity through hydrogen bonding at all stages except for the critical charging of tRNA with their cognate amino acid by dedicated amino acyl tRNA synthetases. Can you envision the evolution of a translation machinery that could ac­complish this latter step exclusively through hydrogen bonds?
+================================================================================
+
+Question: The Vicissitudes of a Talmudic Question
+Link: https://schaechter.asmblog.org/schaechter/2019/03/the-vicissitudes-of-a-talmudic-question.html
+Text:
+by Elio
+When we try to construct a Talmudic Question, we are concerned with the accuracy of the premise and ensuring that an answer has not been previously provided. We were toying with this one: “Bacterial endosymbionts of insects have reduced genomes but, best we know, they have not exported some of their genes to the host cell nucleus (as organelles have). If this is indeed true, what is the reason for it?” But we were not sure of the premise, so we thought it wise to consult with an expert, John McCutcheon, of the University of Montana. Here is what he said:
+Aphid on a Leaf. Source
+“Endosymbionts do seem to have transferred genes, but rarely. In some cases, there are transfers that seem to have come from the endosymbionts (but this is quite difficult to prove, although the phylogenetic trees suggest it’s true or at least possible). In the vast majority of cases, however, the genes transferred to insect host genomes are from other bacteria, in particular the reproductive manipulators such as Wolbachia.
+Why? Because reproductive manipulators have the opportunity. Reproductive manipulators are, as part of their normal lifecycle, exposed to the nuclei of insect germ cells. Nutritional endosym­bionts are found in insect eggs, true, but for cell biological reasons they seem to be unable to easily transfer genes. The endosymbionts with the smallest genomes do not have much opportu­nity to transfer genes, reproductive manipulators do.
+But these HGTs arising from reproductive manipulators still complement missing endosymbiont genes, so I see this as basically the same outcome, achieved through a slightly different process. These transfers still enable some aspects of genome reduction, but the genes happen to come from other sources because other sources have more opportunity to transfer genes. So, at least in my head, this is an interesting problem, but perhaps not a Talmudic one… because it’s solved!
+The other thing that seems to be going on in many endosymbioses is that native host genes are taking over some of the functions of the missing endosymbiont genes. This seems to be true in many insect-endosymbiont systems, and it also is true in other host-endosymbiont systems such as the amoeba Paulinella. So, to sum up, it seems that many (non-organelle) endosymbionts can have such small genomes through (i) HGT from various sources and (ii) functional takeover from the host.”
+However, John thought later that it wasn’t quite so simple. He wrote: “Well, just to be clear, this is a problem that is solved in *my* head (although the mechanisms are almost completely unsolved!), but I do think that some people might not know this. So maybe it’s still an interesting thing to dis­cuss on the blog.” We follow his advice.
+================================================================================
+
+Question: Talmudic Question #162
+Link: https://schaechter.asmblog.org/schaechter/2019/02/talmudic-question-162.html
+Text:
+Can you imagine a eukaryotic virus that can infect a bacterium or an archaeon?
+================================================================================
+
+Question: Talmudic Question #161
+Link: https://schaechter.asmblog.org/schaechter/2019/01/talmudic-question-161.html
+Text:
+Can you imagine a way in which the microbiome is di­rectly involved in human intelligence and/or con­scious­ness?
+================================================================================
+
+Question: Talmudic Question #160
+Link: https://schaechter.asmblog.org/schaechter/2018/12/talmudic-question-160.html
+Text:
+Why are obligate endosymbionts of insects (for example, Buchnera ) more often mutualistic but those of ver­te­bra­tes (for example, Rickettsia ) more often parasitic?
+================================================================================
+
+Question: Talmudic Question #159
+Link: https://schaechter.asmblog.org/schaechter/2018/11/talmudic-question-159.html
+Text:
+Where on Earth would you expect to find the most varied microbiome (in terms of different taxa per gram) ?
+================================================================================
+
+Question: Talmudic Question #158
+Link: https://schaechter.asmblog.org/schaechter/2018/10/talmudic-question-158.html
+Text:
+The genie has returned yet again. (He already visited once back in 2007.) On a moonlit night, you walk on the beach, stub your toe against a bottle, which conveniently rolls against a rock and shatters. A genie emerges, eager to grant you one wish. You ask for a microbiolo­gical la­boratory. The genie grants you that, and tells you that you can choose the topic of your research. However, he will let you use only one apparatus (besides incubators, Bunsen burners, inoculating loops, and a microscope). Which apparatus would you choose?
+================================================================================
+
+Question: Talmudic Question #157
+Link: https://schaechter.asmblog.org/schaechter/2018/09/talmudic-question-157.html
+Text:
+by Jacob Bobonis
+Is there such a thing as a taxon-characteristic pathway / fea­ture that cannot be transferred in bacteria?
+================================================================================
+
+Question: Talmudic Question #155 ...and #156
+Link: https://schaechter.asmblog.org/schaechter/2018/08/talmudic-question-155_156.html
+Text:
+Coxiella burnetii, the agent of Q fever, is the only organism known to survive in an acidic lysosome of its host cells. Why haven’t other intracellular bacteria developed this skill?
+Since our Talmudic Question #155 was answered almost instantly after it went online we thought we might as well come up with another (TQ #156)
+by Samantha Kwah:
+Is there any bacterium that absolutely requires attachment to a surface for survival?
+================================================================================
+
+Question: Talmudic Question #154
+Link: https://schaechter.asmblog.org/schaechter/2018/05/talmudic-question-154.html
+Text:
+Mycorrhizal fungi are known to carry out many activities beneficial to plants, such as transporting water and nu­trients, protecting against pa­thogens, and permitting communication between plants. Do they also carry pa­thogens such as viruses or bacteria? If no, why not?
+================================================================================
+
+Question: Talmudic Question #153
+Link: https://schaechter.asmblog.org/schaechter/2018/04/talmudic-question-153.html
+Text:
+Take a 1000 year old sequoia tree. What genetic dif­fe­rence would you expect to find if you analyzed the va­rious branches?
+================================================================================
+
+Question: Talmudic Question #152
+Link: https://schaechter.asmblog.org/schaechter/2018/03/talmudic-question-152.html
+Text:
+With the widespread use of alcohol-based disinfectants (hand dispensers seem to be all over), can you conceive of a bacterium becoming resistant other than by making spores?
+================================================================================
+
+Question: Talmudic Question #151
+Link: https://schaechter.asmblog.org/schaechter/2018/01/talmudic-question-151.html
+Text:
+Should a cellular life form be found outside our planet, would you guess it would look more like a coccus or a rod?
+================================================================================
+
+Question: Talmudic Question #150
+Link: https://schaechter.asmblog.org/schaechter/2017/11/talmudic-question-150.html
+Text:
+Apparently, the total weight of Bacteria on Earth exceeds that of Archaea. How come?
+================================================================================
+
+Question: Talmudic Question #149
+Link: https://schaechter.asmblog.org/schaechter/2017/10/talmudic-question-149.html
+Text:
+by  Jeff Mahr
+Why are there apparently no electron transport chains in eukaryotic membranes? The mitochondrial and chloroplast ETCs are in the inner, bacterial membrane and I can not find any example of an ETC in a eukaryotic membrane. I would think that such a powerful mechanism for generating ATP would evolve at least twice (as useful as the camera eye, right?) or be co-opted. Are they there and I am unaware?
+================================================================================
+
+Question: Talmudic Question #148
+Link: https://schaechter.asmblog.org/schaechter/2017/09/talmudic-question-148.html
+Text:
+We are not aware of many biological entities in the shape of a torus (doughnut), certainly not bacteria. Can you think of some, either uni- or multicellular?
+================================================================================
+
+Question: Talmudic Question #147
+Link: https://schaechter.asmblog.org/schaechter/2017/08/talmudic-question-147.html
+Text:
+by Bernie Strauss
+CRISPR-Cas9 supposedly has its antecedents in an immu­ne type mechanism to protect bacteria from virus infect­ions. How does this discovery fit with the Luria-Delbrück demonstration that resistance develops as a result of spontaneous mutation rather than being induced by in­fection?
+Of course, it is possible that both mechanisms operate but I haven't seen the question discussed...
+================================================================================
+
+Question: Talmudic Question #146
+Link: https://schaechter.asmblog.org/schaechter/2017/07/talmudic-question-146.html
+Text:
+Cross-section of a generic Gram-negative bac­te­ri­al cell envelope. Lipid A comprises the hy­dro­pho­bic mem­brane anchor of lipopolysaccharide (LPS). LPS is the major structural component of the outer leaflet of the outer membrane. Source
+The Gram-negative outer membrane li­po­po­ly­sac­cha­ri­de (LPS) has three components, Lipid A, the core, and the O-anti­gen side-chain. The O-side chain and parts of the core can be de­le­ted. In con­trast, Lipid A ap­pears to be es­sen­tial. Why do you think that is?
+================================================================================
+
+Question: Talmudic Question #145
+Link: https://schaechter.asmblog.org/schaechter/2017/06/talmudic-question-145.html
+Text:
+It is becoming increasingly apparent that bacteria and ar­chaea living in various oligotrophic environments tend to be quite a bit smaller than most grown in the la­bo­ra­to­ry. See here and here. If this is true for the majority of pro­kar­yo­tes, what do you make of it?
+================================================================================
+
+Question: Talmudic Question #144
+Link: https://schaechter.asmblog.org/schaechter/2017/04/talmudic-question-144.html
+Text:
+by Christoph
+Michael Arnold, a geneticist at UGA, Athens, GA was cited in an article in the New York Times, saying: "It's sort of cool that evolution is really messy." Is that so? Or is it the stinted capability of our brains to tackle complex prob­lems – not so terribly cool, after all – that let's us per­ceive evolution as messy?
+================================================================================
+
+Question: Talmudic Question #143
+Link: https://schaechter.asmblog.org/schaechter/2017/03/talmudic-question-143.html
+Text:
+On the planet Trafalmadore there are no lytic phages, on­ly lysogenic ones that are only rarely induced to pro­duce progeny virions. How does their planetary microbiome differ from ours?
+================================================================================
+
+Question: Talmudic Question #142
+Link: https://schaechter.asmblog.org/schaechter/2017/02/talmudic-question-142.html
+Text:
+On the planet Krypton there are no lysogenic phages, only lytic ones. How does their planetary microbiome differ from ours?
+================================================================================
+
+Question: Talmudic Question #141
+Link: https://schaechter.asmblog.org/schaechter/2017/01/talmudic-question-141.html
+Text:
+How come peptides made enzymatically, i.e., in­de­pen­dent of ribosomes, don't seem to get strung together to make a respectably sized protein? (for an example of a peptide ligase, see here)
+================================================================================
+
+Question: Talmudic Question #140
+Link: https://schaechter.asmblog.org/schaechter/2016/12/talmudic-question-140.html
+Text:
+In an acute infection, damage to tissues is usually due to a combination of factors made by the pathogen, such as toxins, and to an uncontrolled host response. Considering the huge parade of acute infections, which of the two do you think plays a greater role, generally speaking? Or can the two not be considered separately?
+================================================================================
+
+Question: Talmudic Question #139
+Link: https://schaechter.asmblog.org/schaechter/2016/11/talmudic-question-140.html
+Text:
+Why have microbiologists ever more problems defining bacterial species the better they get to know them?
+================================================================================
+
+Question: Talmudic Question #138
+Link: https://schaechter.asmblog.org/schaechter/2016/10/talmudic-question-139.html
+Text:
+Peptidoglycan, LPS (in gram negatives), and S-layers (in some bacteria and archaea) are highly effective envelope components, as seen by their wide distribution. Why didn't eukaryotes – and for that matter, viruses – make use of them?
+================================================================================
+
+Question: Talmudic Question #137
+Link: https://schaechter.asmblog.org/schaechter/2016/09/talmudic-question-137.html
+Text:
+Protists are the major predators of bacteria, yet bacteria are not known (to us at least) to make many  anti-protist antibiotics (violacein comes to mind).  Why so few?
+================================================================================
+
+Question: Talmudic Question #136
+Link: https://schaechter.asmblog.org/schaechter/2016/08/talmudic-question-136.html
+Text:
+Virus types are highly unevenly distributed among their hosts. E.g., Bacteria harbor relatively few RNA viruses, Archaea none to our knowledge. Any idea why?
+================================================================================
+
+Question: Talmudic Question #135
+Link: https://schaechter.asmblog.org/schaechter/2016/07/talmudic-question-135.html
+Text:
+"Invasive species" is a common topic among plant and animal ecologists. Why is it not much used in the context of microbial diversity?
+================================================================================
+
+Question: Talmudic Question #134
+Link: https://schaechter.asmblog.org/schaechter/2016/06/talmudic-question-134.html
+Text:
+What effect do you think a large wind farm could have on the environmental microbiome of the area?
+================================================================================
+
+Question: Talmudic Question #133
+Link: https://schaechter.asmblog.org/schaechter/2016/05/talmudic-question-133.html
+Text:
+Operons are a phenomenal way to regulate the expression of several genes at once. They are widely used in the prokaryotic world but scantly among the eukaryotes (and then with variations on their usage). Why haven’t eukaryotes made greater use of this ingenious device?
+================================================================================
+
+Question: Talmudic Question #132
+Link: https://schaechter.asmblog.org/schaechter/2016/04/talmudic-question-132.html
+Text:
+Best we know, endospore formation in bacteria is limited to the phylum Firmicutes. Why haven't others evolved to use this wonderful survival device?  How would you teach a non-spore forming bacterium to make spores?
+================================================================================
+
+Question: Talmudic Question #131
+Link: https://schaechter.asmblog.org/schaechter/2016/03/talmudic-question-131.html
+Text:
+by Nicole Flanagan
+Is there any human-associated bacterial species that cannot cause disease if introduced into some site of the body?
+================================================================================
+
+Question: Talmudic Question #130
+Link: https://schaechter.asmblog.org/schaechter/2016/02/talmudic-question-130.html
+Text:
+Have you ever heard of an RNA virus that is capable of a lysogenic existence, either as an episome or by integration into the host genomes? Retroviruses excluded.
+================================================================================
+
+Question: Talmudic Question #129
+Link: https://schaechter.asmblog.org/schaechter/2016/01/talmudic-question-129.html
+Text:
+by Barry Goldman
+Can you conceive of an animal cell choosing indepen­dence and becoming protist-like? For instance, could a macrophage learn to live among the moist mosses in the woods and look perhaps like a slime mold?
+x
+================================================================================
+
+Question: Talmudic Question #128
+Link: https://schaechter.asmblog.org/schaechter/2015/11/talmudic-question-128.html
+Text:
+To turn the tables, are there eukaryotic endosymbionts of prokaryotes? (Keep in mind that some bacteria are larger than the smallest eukaryotes.)
+================================================================================
+
+Question: Talmudic Question #127
+Link: https://schaechter.asmblog.org/schaechter/2015/10/talmudic-question-127.html
+Text:
+Why are not all bacteria motile?
+================================================================================
+
+Question: Talmudic Question #126
+Link: https://schaechter.asmblog.org/schaechter/2015/09/given-the-abundance-of-bacteria-in-the-human-body-why-are-bacterivores-such-as-protists-so-relatively-scarce-contrast.html
+Text:
+Given the abundance of bacteria in the human body, why are bacterivores such as protists so relatively scarce? (Contrast this with, say, the cow’s rumen or the termite gut, which are loaded with such protists).
+================================================================================
+
+Question: Talmudic Question #125
+Link: https://schaechter.asmblog.org/schaechter/2015/09/talmudic-question-125.html
+Text:
+Oligotrophs are organisms that thrive in nutrient scarce environment, as opposite to copiotrophs, who like it rich. Which of these two kinds of microbes do you think is most abundant on Earth?
+================================================================================
+
+Question: Talmudic Question #124
+Link: https://schaechter.asmblog.org/schaechter/2015/08/talmudic-question-124.html
+Text:
+Suppose you wanted to find a place in nature where there are bacteria but no extracellular phages. Where would you look?
+================================================================================
+
+Question: Talmudic Question #123
+Link: https://schaechter.asmblog.org/schaechter/2015/07/talmudic-question-123.html
+Text:
+You escape from your lab into the great outdoors for an afternoon, with your new DNA detector in your pocket. You poke about here and there, and find sites where there is a measurable amount of DNA free in solution, say a picogram or more. Where might you be?
+================================================================================
+
+Question: Talmudic Question #122
+Link: https://schaechter.asmblog.org/schaechter/2015/06/talmudic-question-122.html
+Text:
+By David Collins
+Do we know of a bacterial taxon that has gone extinct?
+================================================================================
+
+Question: Talmudic Question #121
+Link: https://schaechter.asmblog.org/schaechter/2015/05/talmudic-question-121.html
+Text:
+by Caroline Laudermilch
+Which tend to have the greatest host range, viruses or pathogenic bacteria?
+================================================================================
+
+Question: Your Favorite Talmudic Questions, I.
+Link: https://schaechter.asmblog.org/schaechter/2015/04/your-favorite-talmudic-questions.html
+Text:
+by Elio
+These are questions that may not have definitive answers but where the pleasure resides in contemplating the question. What deeper meaning lies therein?
+As an aside, the question "how many angels can dance on the head of a pin" may sound Talmudic but actually has a totally different origin, see here.
+The source of the 120+ Talmudic Questions we have to date? Notably, about one in four comes from aficionados among our readers, and we are mighty glad of it. Those are among the very best. The rest often popped up in our heads at night during moments of wakefulness.
+From time to time, we will reprint samples of some of the Talmudic Questions that have received the most comments.To see these comments, click on the question’s number.
+TQ #4  What if all the bacteria and archaea on Earth decided to go on strike and stop their metabolism all at once? Which of the global cycles of matter would be affected first? How long would it take for life as we know it to come to a stop?
+TQ #8  Can you think of a place on Earth where there is free water but no microbes? (A sterile flask of nutrient broth in a lab or an IV bag in a hospital don't count.)
+TQ #19  You are stranded on a desert island. During a walk on the beach, you stub your toe against a bottle, which rolls against a rock and breaks. A genie is liberated, eager to grant you one wish. You ask for a microbiological laboratory fully equipped to your specifications. The genie grants you that but with the condition that you can study only one sample. What sample would you collect for study, what would you do with it, and why?
+TQ #75  What would the world be like without the Archaea?
+TQ #115  Is global warming likely to result in a significant net increase, decrease, or no substantial change in the microbial biomass on Earth?
+================================================================================
+
+Question: Talmudic Question #120
+Link: https://schaechter.asmblog.org/schaechter/2015/04/talmudic-question-120.html
+Text:
+Why are there no known prokaryotic retroviruses?
+================================================================================
+
+Question: A Talmudic Conversation
+Link: https://schaechter.asmblog.org/schaechter/2015/03/a-talmudic-conversation.html
+Text:
+We posted Talmudic Questions #118 and #119 together because they struck us as being inter-related, both sending our thoughts down similar avenues.
+Imaginary bacteriophages infecting a mitochondrion (Talmudic Picture)
+#118 by Nicholas Shikuma
+Are there bacteriophages known to infect eukaryotic cells?
+# 119 by Beja Oded
+Are there any phages known to attack mitochondria or chloroplasts?
+Their appearance together on the blog prompted a lively conversation that we thought too interesting to leave buried out of sight. Moreover, we note that it is not too late to take part by posting a comment. You don't have to be an expert to contribute a comment here, or on any of our posts. We invite you to join in.
+Comment #1 by blackskimmer
+Do mitochondria have their own ribosomes?
+Comment #2 by Varun C N
+1. Bacteriophages are usually very specific, so it is reasonable to believe that it wouldn't infect a eukaryote, outside a kingdom range. However, nature is full of exceptions. We may have surprises left.
+2. I'm thinking why not? For example, In case of HIV, viral RNA have been found inside mitochondria. Herpes can directly induce mitochondrial degradation, but is not a prime requirement for replication. In case of Flock house virus, RNA replication occurs on outer mitochondrial membranes. Nodamura virus is another debated example (here and here). Given that mitochondria and chloroplast have their own genetic material still left (despite most of it being lost during evolution) makes the question valid to be explored to a degree.
+Comment #3 by Gertrud Rey
+I'm not sure, but on a related note I just learned from a friend that the bacterium Midichloria mitochondrii infects mitochondria. You probably already knew that, but how interesting!
+Comment #4 by Hollis Marriott
+Being an interested but naive reader (macro-biologist), I’m wondering if the phage-type RNA polymerases in plants are relevant? "In mono- and eudicotyledonous plants, a small nuclear gene family (RpoT, RNA polymerase of the T3/T7 type) encodes mitochondrial as well as chloroplast RNA polymerases homologous to the T-odd bacteriophage enzymes." (Source). I don't know if there's a generally accepted hypothesis as to origin, but in searching I found this: "Together these two findings add weight to the hypothesis of a podoviral origin of nuclear encoded phage type RNA polymerases. Considering a subsequent gene transfer from mitochondria to the nucleus, a prophage that might have been part of the α-proteobacterial endosymbiont's genome or an active podoviral phage, present in the α-proteobacterial ancestor of mitochondria at the time of the endosymbiotic uptake, is therefore a likely source for nuclear encoded phage-type RNA polymerases." p 28 of http://edoc.hu-berlin.de/disse...
+In any case … in almost total ignorance I'm betting that somewhere there are phages involved with mitochondria and chloroplasts. With all the cool new things being found, it would have to be! :-) Thanks for the great TQs.
+Comment #5 by Kanika Khanna
+Fernando Vargas, Neeraja Vegesna, and myself (Kanika) presented these questions in our Microbiology class at UCSD. This is a compilation of our opinions. Waiting for a good discussion on these points!
+To understand why bacteriophages don't infect eukaryotic cells, let us first look at how phages and viruses infect bacteria bacterial and eukaryotic cells. Phages enter bacterial cells by binding to a surface receptor (lipopolysaccharide, cell wall/flagellar proteins, and pilus proteins) and injecting its genetic material using its tail. The genetic material then gets integrated into the bacterial chromosome where it hijacks the cell to aid in its replication.
+Virus particles enter eukaryotic cells using mechanisms like pinocytosis, receptor mediated endocytosis (via clathrin/claveolin mediated pathways) and/or membrane fusion where it is decapsidated inside the cell and end up in the lytic or lysogenic cycles.
+Perhaps there are many reasons as to why bacteriophages cannot infect eukaryotic cells. One can argue that they are incapable of infecting eukaryotic cells because phages don't have the required ligands for a receptor mediated endocytosis like infection. Furthermore, even if they are somehow recognized by and incorporated into the cell, they may need to undergo decapsidation, which is not known in phages, for effective infection.
+So, if we were to do an experiment to verify whether an unknown phage can infect a eukaryotic cell, we can proceed with the classic "Hershey-Chase" experiment. Bacteria will be cultured in media supplemented with phosphorous isotope (32P) for around four hours before phage introduction. It is expected that the phage progeny will contain radioactive isotopes in their structures. The labelled progeny will then be used to infect eukaryotic cells, followed by the extraction of bacterial genomic DNA. The genomic DNA will then be run on a gel while probing for 32P-incorporated genomic DNA. If the phage has indeed infected the eukaryotic cell, we would expect to see a band under the conditions mentioned. A follow up experiment to investigate if phages can infect mitochondria or chloroplast would follow a similar strategy except that we fractionate the cells and extract the genomic DNA found in mitochondria and chloroplast separately from the nucleus and check for the presence of 32P-labeled phage DNA separately in each of these.
+A study was conducted by Poul and Marks, wherein the authors re-engineered F5 phage (displaying an antibody) to infect eukaryotic cells by binding to mammalian growth factor receptors, undergoing receptor-mediated endocytosis and resulted in expression of a reporter gene (GFP) inserted into the bacteriophage genome. Now this is something completely novel although we wonder whether GFP expression is due to infection or an artifact of endocytosis, the authors don't perform many experiments to verify this. But still it will be interesting to go ahead and explore more on this as it can has several applications like gene delivery etc.
+Recently, researchers have discovered unusual similarities within the RNA polymerases found in mitochondria, chloroplasts and of T7 phage. Perhaps, phages infected ancestral bacteria that more closely resembled mitochondria and/or chloroplasts which was being incorporated into eukaryotic cells. Perhaps during this endocytosis event, a phage made its entry into the cell and donated its DNA code for the RNA polymerase enzyme, resulting in the observed similarity. Were this the case, it may be possible for phages to infect eukaryotic cells in indirect ways, possibly by infecting a bacteria with phages and use that infected bacterial cell to infect the eukaryotic cell.
+So, all in all there may be different ways in which phages may indirectly infect eukaryotes. May be they infect bacteria first which then go on to infect the eukaryotic cells or under some circumstances, phage particles lyse and just bits and pieces of DNA or protein goes into the eukaryotic cell by pinocytosis which may not have any dire consequences. Alternatively, when the eukaryotic cell is undergoing endocytosis, some phages or phage particles present in the vicinity (a by-chance event!) may get into the cell. It is unheard of, but definitely probable.
+================================================================================
+
+Question: Talmudic Questions #118 and #119
+Link: https://schaechter.asmblog.org/schaechter/2015/03/talmudic-questions-118-and-119.html
+Text:
+These two questions are posted together because they are obviously related.
+#118 by Nicholas Shikuma
+Are there bacteriophages known to infect eukaryotic cells?
+# 119 by Oded Beja
+Are there any phages known to attack mitochondria or chloroplasts?
+================================================================================
+
+Question: Talmudic Question #117
+Link: https://schaechter.asmblog.org/schaechter/2015/02/talmudic-question-117.html
+Text:
+by Daniel Haeusser
+Why do you suppose the lipopolysaccharide of gram-negative bacteria (LPS or endotoxin) has been singled out to be so toxic? Why do harmless commensals keep carrying LPS?
+================================================================================
+
+Question: Talmudic Question #116
+Link: https://schaechter.asmblog.org/schaechter/2015/01/talmudic-question-116.html
+Text:
+(Identity and source to be revealed later)
+Can anyone tell this thin section is of a bacterium or an archaeon? (And what's the point of our asking this question?)
+================================================================================
+
+Question: Talmudic Question #115
+Link: https://schaechter.asmblog.org/schaechter/2014/12/talmudic.html
+Text:
+by Elio
+Is global warming likely to result in a significant net increase, decrease, or no substantial change in the microbial biomass on Earth?
+================================================================================
+
+Question: Talmudic Question #114
+Link: https://schaechter.asmblog.org/schaechter/2014/10/talmudic-question-114.html
+Text:
+The year is 2124. Thanks to new improvements in teleportation, the Intergalactic Research Institute has gathered 1000 biological samples from each of 1000 habitable planets in 1000 galaxies. The samples were analyzed with new model Instant Analyzers capable of determining the nucleotide sequence bases (to use old quaint terminology) of 100 million in one minute. The results were quite revealing. No significant homology (to refer to an outdated concept) was found between the samples from different, although some was found between the samples from within a given galaxy. Old timers may remember that some 100 years ago a similar problem arose regarding the sequence of phages on Earth. Now what? What is your recommendation to the Institute for what to do next?
+================================================================================
+
+Question: Talmudic Question #113
+Link: https://schaechter.asmblog.org/schaechter/2014/09/ta.html
+Text:
+Are there any niches in the human body where you might find bacteria carrying out autotrophic metabolism?
+================================================================================
+
+Question: Precision of Cell Division (Talmudic Question #112.2)
+Link: https://schaechter.asmblog.org/schaechter/2014/08/precision-of-cell-division-talmudic-question-1122.html
+Text:
+by Conrad Woldringh
+Figure 1. Measurements from electron micro- graphs of agar filtered cells, taken from the thesis of F.J. Trueba (Amsterdam, 1981). A E. coli B/rK grown in glucose+CASA minimal medium. B E. coli B/rK grown in alanine+proline minimal medium.
+In Talmudic Question #112, the question was asked: "Many, perhaps most bacteria, divide into daughter cells of almost precisely the same size. Why is that?"
+An answer may be found when measuring the precision of cell division as a function of cell shape. The precision of cell division is given by the coefficient of variation (CV) of the ratio of the lengths of prospective daughter cells to the lengths of constricting cells (the so-called K(L) distribution; Trueba, 1982). This CV varies with the shape of the cells as defined by the cell's aspect ratio between average cell length and cell diameter (L/2R).
+Measurements of constricting cells prepared for electron microscopy by the method of agar filtration (see Fig. 1, taken from the thesis of F.J. Trueba, Amsterdam, 1981), show that fast growing, thicker cells divide more precisely (CV ≈ 5%) than the slow growing,thinner cells (CV ≈ 10%).
+If nucleoid occlusion plays a role in signaling cell division, the positioning of the whole, duplicated nucleoid in the cell will influence the site of division. As evident from the images of the cells in Fig. 2, that have about the same cellular volume and the same DNA-mass, the nucleoid has less space along the length axis of thicker the cell (Fig. 2A) than of the thinner cells (Fig. 2B), for geometrical reasons. Trueba (1982) suggested that if the position of the nucleoid in the cell is more variable, so will be the site of cell division. As far as I know this has not been measured directly using, for instance, DAPI-stained, living cells.
+Figure 2. Electron micrographs of thin-sectioned cells of two different E. coli B/r strains. At doubling times exceeding 60 min, the two strains have been shown to adopt widely different cell shapes (Woldringh et al. (1977). A E. coli B/r ATCC12407 growing with a doubling time of 90 min. B E. coli B/rK, doubling time 70 min. Note the nucleoid-free cell ends. A and B have the same magnification.
+The suggestion is only valid if the DNA mass is equally dispersed within the volume of the nucleoid; another Talmudic question?
+References
+Trueba FJ (1982). On the precision and accuracy achieved by Escherichia coli cells at fission about their middle. Archives of Microbiology, 131 (1), 55−59
+Woldringh CL, de Jong MA, van den Berg W, Koppes L (1977). Morphological analysis of the division cycle of two Escherichia coli substrains during slow growth. Journal of Bacteriology, 131 (1), 270−279. PMID 326763
+Conrad Woldringh is a retired member of the Swammerdam Institute for Life Sciences at the University of Amsterdam
+================================================================================
+
+Question: Talmudic Question #112
+Link: https://schaechter.asmblog.org/schaechter/2014/08/talmudic-question-112.html
+Text:
+Many, perhaps most bacteria, divide into daughter cells of almost precisely the same size. Why is that?
+================================================================================
+
+Question: Talmudic Question #111
+Link: https://schaechter.asmblog.org/schaechter/2014/07/talmudic-question-111.html
+Text:
+Can you conceive a viable (microbial) cell that has no ribosomes?
+================================================================================
+
+Question: Talmudic Question #110
+Link: https://schaechter.asmblog.org/schaechter/2014/07/talmudic-question-110.html
+Text:
+Suppose an innovative fungal symbiont in a lichen decided to appropriate its algal partner's plastids and do away with having to pay the algae for their services. What would it have to gain, or lose thereby?
+================================================================================
+
+Question: Talmudic Question #109
+Link: https://schaechter.asmblog.org/schaechter/2014/05/talmudic-question-109.html
+Text:
+Which infection has the most levels of parasitism?  We can come up with Salmon Poisoning disease an illness lethal in (1) dogs and their relatives who ate (2) a salmon or other fish infected with (3) a fluke that developed in (4) a river snail and carried (5) a rickettsia, Neorickettsia heliminthoeca that causes the symptoms of the disease. That’s five levels by our count. Six, if the rickettsia were to carry a virulence-related phage.
+================================================================================
+
+Question: Talmudic Question #108
+Link: https://schaechter.asmblog.org/schaechter/2014/05/ta.html
+Text:
+Why do you suppose that, to our knowledge, animals have not evolved the ability to break down cellulose without the help of microbes?
+================================================================================
+
+Question: Talmudic Question #107
+Link: https://schaechter.asmblog.org/schaechter/2014/04/tal.html
+Text:
+Suppose you are once again strolling on that deserted beach and again, on cue, the genie reappears. This time he is offering you some mice from a lineage that he has bred for hundreds or more generations under germ-free conditions.  Would you expect to find any genetic changes in these mice? If so, what might they be?
+================================================================================
+
+Question: Talmudic Question #106
+Link: https://schaechter.asmblog.org/schaechter/2014/03/talmudic-question-106.html
+Text:
+What may be the reason why E. coli  is usually the most abundant facultative anaerobe in mammalian feces?
+================================================================================
+
+Question: Talmudic Question #105
+Link: https://schaechter.asmblog.org/schaechter/2014/01/talmudic-question-105.html
+Text:
+Do you know of any eukaryotic virus that has a tail, and, if not, why do you suppose there aren’t any?
+================================================================================
+
+Question: Talmudic Question #104
+Link: https://schaechter.asmblog.org/schaechter/2013/12/talmudic-question-104.html
+Text:
+Can you conceive of an entity that can replicate as a cell under some circumstances or as a virus under others?
+================================================================================
+
+Question: Talmudic Question #103
+Link: https://schaechter.asmblog.org/schaechter/2013/11/talmudic-question-103.html
+Text:
+Why do you suppose there are few, if any, mycorrhizae in aquatic environments?
+================================================================================
+
+Question: Talmudic Question #102
+Link: https://schaechter.asmblog.org/schaechter/2013/10/talmudic-question-102.html
+Text:
+Suppose you're a sessile marine creature looking to put down "roots" some place. Would you choose to attach to a living organism or to something dead or inanimate?
+================================================================================
+
+Question: Talmudic Question #101
+Link: https://schaechter.asmblog.org/schaechter/2013/10/talmudic-question-101.html
+Text:
+How many cells does it take to make a biofilm?
+================================================================================
+
+Question: Talmudic Question #100
+Link: https://schaechter.asmblog.org/schaechter/2013/09/talmudic-question-100.html
+Text:
+Past the origin of the first cell, what do you consider to have been the single most important event in evolution?
+================================================================================
+
+Question: Talmudic Question #99
+Link: https://schaechter.asmblog.org/schaechter/2013/05/talmudic-question-99.html
+Text:
+This is our first illustrated Talmudic Question and our last Talmudic Question (at least for a while). We think it may be time to move to new pastures. We hope that our new section, Pictures Considered, will partly fill this space.
+================================================================================
+
+Question: Talmudic Question #98
+Link: https://schaechter.asmblog.org/schaechter/2013/05/talmudic-question-98.html
+Text:
+What do you think is the single best criterion for telling an endosymbiont of a eukaryotic cell from an organelle?
+Post Script
+I must come clean and confess that I formulated this question after having read a most stimulating review by John McCutcheon and Nancy Moran that touches on this subject. Some of the responses you provided are related to considerations in this article. Read and enjoy!
+—Elio
+================================================================================
+
+Question: Talmudic Question #97
+Link: https://schaechter.asmblog.org/schaechter/2013/04/talmudic-question-97.html
+Text:
+by Welkin Johnson
+What is the minimum set of adaptations that HIV would have to acquire in order to become a successful airborne pathogen like influenza?
+================================================================================
+
+Question: Talmudic Question #96
+Link: https://schaechter.asmblog.org/schaechter/2013/02/talmudic-question-96.html
+Text:
+Bacterial cells are smaller than eukaryotic cells, with some exception. Viruses are smaller than bacteria, with some exception. These are just two examples of why definitions in Biology, unlike in Physics and Chemistry, most often need to be qualified. What does this tell us about Biology?
+================================================================================
+
+Question: Talmudic Question #95
+Link: https://schaechter.asmblog.org/schaechter/2013/02/talmudic-question-95.html
+Text:
+by Barry Goldman
+Almost all multicellular critters known (animals, plants, fungi, algae) go through a microbial stage in their life cycle – gamete or spore. Can you think of a multicellular species or higher taxon that has NEVER been caught going through the microbial stage?
+================================================================================
+
+Question: Talmudic Question #94
+Link: https://schaechter.asmblog.org/schaechter/2013/01/talmudic-question-94.html
+Text:
+by Mark O. Martin
+Bacterial bioluminescence is ubiquitous in marine environments, both among free living and mutualistic microbes. Why is this phenotype comparatively rare in terrestrial and freshwater environments (the fascinating Photorhabdus being a notable exception)?
+================================================================================
+
+Question: Talmudic Question #93
+Link: https://schaechter.asmblog.org/schaechter/2012/11/tal.html
+Text:
+by Paul Evans
+Which bacteria besides the rhizobia undergo terminal (irreversible) differentiation? (no fair saying 'spores')
+================================================================================
+
+Question: Talmudic Question #92
+Link: https://schaechter.asmblog.org/schaechter/2012/11/ta.html
+Text:
+Does DNA do anything other than serve as a repository for genetic information?
+================================================================================
+
+Question: Talmudic Question #91
+Link: https://schaechter.asmblog.org/schaechter/2012/10/ta.html
+Text:
+Why don't eukaryotes (with few exceptions) have operons in their genomes?
+================================================================================
+
+Question: Talmudic Question #90
+Link: https://schaechter.asmblog.org/schaechter/2012/09/talmudic-question-90.html
+Text:
+by Welkin Johnson
+Is it conceivable that, in evolution, a virus could switch from one genome type and replication style to another?
+================================================================================
+
+Question: Talmudic Question #89
+Link: https://schaechter.asmblog.org/schaechter/2012/08/talmudic-question-89.html
+Text:
+Of the ~1030 prokaryotic cells on Earth, what proportion would you guess are viable (using your favorite criterion for viability)?
+================================================================================
+
+Question: Talmudic Question #88
+Link: https://schaechter.asmblog.org/schaechter/2012/06/talmudic-question-88.html
+Text:
+How come viruses have developed so many different ways to penetrate into their host cells?
+================================================================================
+
+Question: Talmudic Question #87
+Link: https://schaechter.asmblog.org/schaechter/2012/05/talmudic-question-87.html
+Text:
+by John Ingraham
+Can you think of a species that has been wiped out by an infectious agent?
+================================================================================
+
+Question: Talmudic Question #86
+Link: https://schaechter.asmblog.org/schaechter/2012/04/talmudic-question-86.html
+Text:
+Given that so many kinds of bacteria are intimately as­sociated with animals and plants, why are so relatively few pathogenic?
+================================================================================
+
+Question: Talmudic Question #85
+Link: https://schaechter.asmblog.org/schaechter/2012/03/talmudic-question-85.html
+Text:
+If small microbes tend to be eaten by bigger ones, why aren’t all microbes big?
+================================================================================
+
+Question: Talmudic Question #84
+Link: https://schaechter.asmblog.org/schaechter/2012/02/talmudic-question-84.html
+Text:
+Within a group of well-studied DNA-based microbes (phages, bacteria, and eukaryotes), genome sizes are found to vary by almost four orders of magnitude. Their rates of mutation per base pair also vary by about that much, so the net result is that their mutation rates per genome vary less than 10-fold. Why do you think this is?
+================================================================================
+
+Question: Talmudic Question #83
+Link: https://schaechter.asmblog.org/schaechter/2012/01/talmudic-question-83.html
+Text:
+Assume the Earth is hit by a large asteroid that lowers the average temperature of the planet to the extent that would eliminate most multicellular life. What would be the short term consequences for the microbial world? And later on?
+================================================================================
+
+Question: Talmudic Question #82
+Link: https://schaechter.asmblog.org/schaechter/2011/12/talmudic-question-82.html
+Text:
+Are there any surface structures or components on bacteria that are NOT used as receptors by some phage?
+================================================================================
+
+Question: A Gathering of Comments on a Talmudic Question
+Link: https://schaechter.asmblog.org/schaechter/2011/12/a-gathering-of-comments-on-a-talmudic-question.html
+Text:
+by Elio
+First it may be appropriate to repeat what we mean by Talmudic Questions (and therefore Talmu­dic Answers.) We use the term loosely to denote questions that may lack definitive answers but that open the door to ingenuity and dialectic. These questions embody the musings: "I have often wondered about…" We are fond of saying that answers to such questions are not likely to be found by a Google search.
+Our Talmudic Question #81 (Given that most mutations are deleterious, why does the mutation rate not evolve to zero?) elicited especially lucid comments. Here we sum­marize a few only (and apologize to those whose com­ments are not mentioned).
+Jan Spitzer points out that the human mutation rate is very slow indeed. But, he notes: something else is afoot: very fast growth and mutations of 'memes.'
+Daniel Smith posits that most mutations are in fact not deleterious. He says: I think the mutations we notice are certainly more likely to be deleterious. But what's science without a little sample bias?
+John Wilkins cleverly points out that: Any mechanism that might keep the mutation rate low would be subjected to deleterious mutations...
+Ramy Aziz tells us: Problem is: it cannot evolve to zero unless it is not zero. If mutation rate slows down to near zero, evolution will also slow down, and the probability of a ‘beneficial’ mutation of ‘no mutation’ will be astronomically low.
+MB thinks that: A mutation rate of zero can be good for an individual organism, but deleterious to a population because of selective pressures. Hence good for population, bad for individual, and evolution/selection works on populations.
+Liz says something similar: Zero mutation rate means no variation and thus the halt of evolution through the loss of environmental adaptability. This decreases the fitness of an organism that achieves this state versus one that allows some mutations, even if most of these would be deleterious.
+ .
+Ami Bachar goes further: In earth or earth-like environments, where evolution is the base for all life, there cannot be such a thing as evolution to zero mutation rate.
+Thinking about possible mechanisms, Mike Jones writes: Is there a level of noise that is unavoid­able during replication?
+And, similarly, Nick Matzke offers this: Because error-checking and correcting the DNA takes energy, organisms have a limited amount of energy, and thus at some point the cost of error-checking outweighs the benefits.
+Mark Martin suggests that we pay attention to viruses: It also reminds me of the ‘no proofread­ing’ problem with RNA polymerases. RNA viruses using that enzyme for replication are extremely prone to mutation, and make many defective progeny (do we have a number for that?). Yet the ‘lottery winners’ have their shot, as well.
+And lastly, Nathan Myers muses: So, here we are, bobbing about in a seething cauldron of mu­tating viruses with our exons and memes and vaccines and recombinant gene therapy. The Joneses, next cauldron over, have all that and mutations besides. Eventually the viruses cough up a mutation our civilized library of adaptability cannot best. Soon only Joneses bob about in our cauldron.
+================================================================================
+
+Question: Talmudic Question #81
+Link: https://schaechter.asmblog.org/schaechter/2011/11/talmudic-question-81.html
+Text:
+Given that most mutations are deleterious, why does the mutation rate not evolve to zero?
+================================================================================
+
+Question: Talmudic Question #80
+Link: https://schaechter.asmblog.org/schaechter/2011/10/talmudic-question-80.html
+Text:
+Within the microbial world, is the degree of pleiotropy displayed by an organism inversely related to its genome size?
+================================================================================
+
+Question: Talmudic Question #79
+Link: https://schaechter.asmblog.org/schaechter/2011/09/talmudic-question-79.html
+Text:
+What's your guess as to the number of different kinds of viruses that can infect a single species on average?
+================================================================================
+
+Question: Talmudic Question #78
+Link: https://schaechter.asmblog.org/schaechter/2011/08/talmudic-question-78.html
+Text:
+Why are there so many species of microbes on earth?
+================================================================================
+
+Question: Talmudic Question #77
+Link: https://schaechter.asmblog.org/schaechter/2011/07/talmudic-question-77.html
+Text:
+Both marine phages and predatory protists prey on bac­teria. Something has been written about how phages may help bacteria escape protist predation. Click here for an erudite treatment. Is something known about the converse, namely communication between protists and phages? For instance, do protists make compounds that diminish predation by phages, e.g., by making phage-inhibitory substances?
+================================================================================
+
+Question: Talmudic Question #76
+Link: https://schaechter.asmblog.org/schaechter/2011/06/talmudic-question-76.html
+Text:
+Do you think that our species is exempt from "kill-the-winner" predator-prey dynamics? (KTW is the colloquial term for the cyclical dynamic by which phages promote community evenness by reducing the numbers of the most abundant bacterial strains.)
+================================================================================
+
+Question: Talmudic Question #75
+Link: https://schaechter.asmblog.org/schaechter/2011/05/talmudic-question-75.html
+Text:
+What would the world be like without the Archaea?
+================================================================================
+
+Question: Talmudic Question #74
+Link: https://schaechter.asmblog.org/schaechter/2011/04/talmudic-question-74.html
+Text:
+by Welkin Johnson
+Do the seven strategies in the Baltimore scheme of viral replication represent all possible ways of being a virus? Have other strategies fallen by the evolutionary wayside?
+================================================================================
+
+Question: Talmudic Question #73
+Link: https://schaechter.asmblog.org/schaechter/2011/04/talmudic-question-73.html
+Text:
+Note:  Please note today's date.
+If people go to heaven does their microbiome go with them?
+Ramy Aziz, Merry, and Elio already provided some imagined responses.
+An answer from Rome:  Only microbes that don't engage in immoral horizontal gene transfer or illegitimate recombination.
+A moralist’s answer:  Each microbe will be judged by her actions. Did she produce more energy than waste products?
+A Jewish answer:  Why not?
+A Protestant answer:  Depends on their denomination.
+A Hindu answer:  Better sequence the microbiome's genomes in order to detect changes upon reincarnation.
+A Taoist answer:   Host and microbiome are equal in the eyes of the Tao. The ten thousand things are all manifestations of the Tao.
+A Pantheist answer:  Only pangenomes get in.
+The Microbiota's answer:  Aren't we there already?
+================================================================================
+
+Question: Talmudic Exobiology Redux
+Link: https://schaechter.asmblog.org/schaechter/2011/03/talmudic-exobiology-redux.html
+Text:
+Source
+We recently asked this Talmudic Question as our TQ #71:
+As NASA’s hotshot exobiologist, you are asked to design an Earth satellite system in which some organism(s) can live actively (i.e.. no spores) for millennia. How would you go about it? Specify an orbit of your choice.
+Ami Bachar replied:
+I would take a clean coca cola bottle, fill it half with soil and half with sea water, and make sure it stays liquid for the next 1000 years. "Everything is everywhere and the environment selects" (Martinus Beijerinck) + "life is what happens to you while you're busy making other plans" (John Lennon). If it is well closed and nothing escape from the bottle than there should be enough of everything needed to sustain life for much longer than a millennia.
+To which I (Elio) replied: The simplicity of your proposal wins out over all the complex schemes that I had dreamt up. Good for you!
+It turns out that I jumped the gun. It's not so simple, as fellow blogger Russell Neches insightfully pointed out.
+Feeling a bit giddy with sleep deprivation (and the first successful run on our lab's new sequencing machine), I decided to take a crack at Talmudic Question #71:
+As NASA's hotshot exobiologist, you are asked to design an Earth satellite system in which some organism(s) can live actively (i.e., no spores) for millennia. How would you go about it? Specify an orbit of your choice.
+Ami Bachar gamely suggested entrusting a cargo of seawater and dirt to a Coca Cola bottle, and lobbing it into orbit. I liked this idea so much that I couldn't resist embroidering it.
+This is a fascinating idea. Could you create the happy conditions we enjoy here on the surface of this planet, but without the planet? Could you do it without cheating with moving parts, power sources, or other un-planet-like features? Fortunately, the audience we're trying to please are microbes, who aren't as finicky as astronauts.
+The first problem is that Coke has never, to my knowledge, designed bottles that will stop hard UV radiation, X-rays, or relativistic protons. Such a bottle would never make it past the product safety laws, even those from Coke's early days. The glass would need to be doped with a double-handful of lead to stop at least some of the UV and X-rays, and perhaps some low-Z metal like beryllium (which is possibly more toxic than lead) to slow solar particles before they reach our precious mud. Otherwise, during a solar storm, the bottle could be sterilized by Bremsstrahlung radiation. Even thus enhanced beyond beverage container specifications, the glass probably wouldn't do nearly as good a job as the ozone layer and the Earth's magnetic field. Good thing microbes are tough.
+The next problem to worry about is temperature. An object in a shady spot on the moon will cool to -153 °C, and in a sunny spot will heat to 107 °C. The Earth's average temperature is about 13 °C. How hot would it get inside the bottle? The key to the puzzle is the Stefan-Boltzmann Law:
+I = σT4
+where the constant σ is called, naturally, the Stefan-Boltzmann constant, T is the temperature of the sun's photosphere (about 6000 Kelvin), and I is the power emitted per square meter. Using the Stefan-Boltzmann law, we can calculate that the sun's surface emits 7.3×107 watts per square meter. Multiplied by the total surface area of the sun, that's 3.9×1026 watts. This energy spreads out more-or-less uniformly through space in all directions. When you spread it over a 96-million-mile radius sphere, you get 1367 watts per square meter. This number is Earth's solar constant (S0).
+The Earth absorbs a disk of this sunlight (πr2), but the energy is spread over the surface of a sphere (4πr2), so the average amount of energy falling on a square meter of the Earth is one quarter of the solar constant, or 342 watts per square meter. A Coke bottle isn't a sphere, but it's also not made out of thick lead/beryllium glass either. This is a very special Coke bottle.
+About 30% of the light that reaches the surface is reflected back into space (this is called albedo, which astronomers spend a fair amount of time worrying about). The albedo reduces the energy available for heating to 240 watts per square meter. Using the Stefan-Boltzman Law, this gives us a temperature of 255K, or -18 °C. This is the Earth's average equilibrium radiating temperature, which it fortunately never reaches, thanks to our wonderful atmosphere. Don't let anyone tell you that the greenhouse effect is a bad thing! All things in moderation, of course.
+In the Earth's atmosphere, water vapor, carbon dioxide and methane are opaque to infrared, but transparent to visible light. A great deal of sunlight comes down as visible light, heats up the ground, and gets re-radiated by infrared. Because of these greenhouse gasses, some of this infrared heats up the atmosphere, which then re-radiates both into space and back at the ground. (Actual garden greenhouses do not work this way at all; they simply block heat losses from convection by trapping the air inside.)
+This extra radiation from the atmosphere heats up the ground, which then re-radiates a bit more. This extra heat leads, of course, to more re-radiation from the ground, which also warms the atmosphere. It's a cute little problem; each time you go around, you throw half the heat into space, half the heat back at the ground, and you get a geometric series that converges at 2. If the Earth's atmosphere were a perfect greenhouse, the average temperature would be 58°C.
+Going back to the Coke bottle, we can choose a temperature between -18 °C and 58 °C by setting the strength of the greenhouse effect. We'll be careful to choose mud of the right color to approximate the Earth's albedo. To do the job of Earth's greenhouse gasses, we can use an optical infrared filter, like the ones used in digital cameras. The bottle would need to be triple walled to minimize heat loss from conduction, with the middle wall acting as the filter.
+One of the features of our planet that has allowed life to keep its foothold here despite an unstable climate is that our planet has a nice variety of temperature zones. When the planet warms, the temperate zones march toward the poles, and when the planet cools, they march toward the equator. The Earth owes this feature to its size and its curvature. Even if the bottle were a sphere rotating about an axis, like a miniature model of the Earth, the heat conduction in the mud would keep it at basically the same temperature throughout, despite getting more radiation at its "equator."
+To set up a temperature gradient, we'll need some kind of heat flow through the mud, from a source to a sync. All we need to do is dial up the greenhouse effect, and add a sync. Letting heat "leak" out of the bottle from a specific place is easy; just add a bit of metal that sticks through the layers of the bottle, with a little heat sync dangling out into space. Without a source of heat, the heat sync would tend toward -18 °C. You could think of this as the bottle cap.
+This would help encourage ecologically distinct bands, which would help preserve and generate diversity. This would be important for keeping things going as conditions changed.
+After all this, the experiment probably wouldn't last a thousand years. What makes the Earth so wonderful is that it has a lot of semi-separated compartments and a lot of big gradients. Conditions change constantly and sometimes catastrophically, but there is always a comfortable place somewhere.
+Obviously, the ecology of the Coke bottle world not even remotely resemble the Earth's. Carbon cycling, phosphorous cycling, and nitrogen cycling would work completely differently. The reservoirs of inorganic material would be different, and the pathways into and out of those reservoirs would be different. We would expect very different dynamics. My guess is that almost all of the available inorganic materials would eventually be incorporated into biomass, with only a very small amount made available by secretions and cells that happened to die. Perhaps this would lead to never-ending microbial gladiatorial combat, or perhaps it would be a quiet little garden wheeling through space. Perhaps you'd end up with nothing but cellular wreckage and a giant wad of phage.
+Anyway, before attempting this experiment, I would strongly recommend finding a way to freeze Richard Lenski for a thousand years and thaw him out unharmed. Someone is going to get to analyze the aliquots from the Coke bottle. As nice as Richard is, I think he might run over the rest of us with cleats on to be the guy to do it.
+I'd like to thank Aric Mine in Albert Colman's lab, as well as Samuel Miller and Genna Patton at the University of Chicago, for their suggestions and corrections.
+Russell Neches is a member of the Microbiology Graduate Group, UC Davis.
+Very well done! and thanks much for honouring my answer with a reply, it sure is a nice answer and one we can learn from. I would like to reply with only two points and in anyway say that I fully agree with the above answer.
+1) I said in the original text "make sure it stays liquid for the next 1000 years" and by that I meant that it should be well protected from freezing or heating too much. Why would such a thing heat so much during the coming 1000 years I do not know. As far as I was told, space is rather cold. I might be wrong there. In anyway, keep it liquid, meaning, keep it somewhere around room temp.
+2) UV is indeed a good point, although I think it will only penetrate to the upper 0.5mm — so the inner microbes should be protected. With respect to the proton flux, I do not know much. Around the earth there should be some magnetic shield for that. Not so sure about the drum system as well since potentially you can make the thing orbit the earth in a way that it experiences day-night shifts (it depends probably on how far the orbit is from earth. Adding a gradient screen is a good idea. A Winogradsky column is an upgrade of the bottle idea to augment biodiversity (although I suspect most species would be on the inner section where it is dark).
+Russell Neches says "provide as many niches as possible" and I fully agree. It would definitely not hurt to have larger niches, e.g., salt water, fresh water, soil + water, soil only of different kinds, etc. Good call, although not as simple as 1 Coca Cola bottle — you must admit :). A system can be VERY complex with many many devics and gradients and niches — no doubt, but the question was to provide a system that can sustain active organisms. You can do so with 1$ Billion and you can do it with 1$. Finally, one small question — I didn't understand: Why did you say "That probably wouldn't work for a thousand years either, but it's getting closer"? what is preventing from this ecosystem with an outer energy source (light) to keep recycling itself? Thanks for a good answer.
+Ami Bachar is a postdoc at the Zuckerberg Inst. for Water Research. Ben-Gurion University, Israel.
+================================================================================
+
+Question: Talmudic Question #72
+Link: https://schaechter.asmblog.org/schaechter/2011/03/talmudic-question-72.html
+Text:
+Suppose a marine bacterium evolved the perfect phage defense, one that no phage could overcome. A thousand years hence, what changes would you expect to see in the marine microbial community?
+================================================================================
+
+Question: Talmudic Question #71
+Link: https://schaechter.asmblog.org/schaechter/2011/02/talmudic-question-71.html
+Text:
+As NASA's hotshot exobiologist, you are asked to design an Earth satellite system in which some organism(s) can live actively (i.e.. no spores) for millennia. How would you go about it? Specify an orbit of your choice.
+================================================================================
+
+Question: Talmudic Question #70
+Link: https://schaechter.asmblog.org/schaechter/2011/01/talmudic-question-70.html
+Text:
+Do you think that all bacteria are lysogens?
+================================================================================
+
+Question: Talmudic Question #69
+Link: https://schaechter.asmblog.org/schaechter/2010/12/talmudic-question-69.html
+Text:
+by Ramy Aziz
+Is there anything microbes cannot do?
+================================================================================
+
+Question: Talmudic Question #68
+Link: https://schaechter.asmblog.org/schaechter/2010/11/talmudic-question-68.html
+Text:
+by Mike Rust
+Why have the bacterial signaling systems based on his­tidine and aspartate phosphorylation been abandoned (with some exceptions) in favor of serine/threonine and tyrosine phosphorylation in eukaryotes?  Is this just a "frozen accident" or is there a deep biochemical reason?
+================================================================================
+
+Question: Talmudic Question #67
+Link: https://schaechter.asmblog.org/schaechter/2010/10/talmudic-question-67.html
+Text:
+Richard Feynman, the famous physicist, said: It is very easy to answer many of these fundamental biological questions; you just look at the thing! To take him up on it, imagine a microscope that lets you observe single mo­lecules in a living cell at one Angström resolution. What's the first thing you would do with it?
+================================================================================
+
+Question: Talmudic Question #66
+Link: https://schaechter.asmblog.org/schaechter/2010/09/talmudic-question-66.html
+Text:
+What if someone found an organism whose genes assignation is 1/3 bacterial, 1/3 archaeal, and 1/3 unknown?
+We jumped the gun and posed this question to our friend Ramy Aziz. He responded with answers that reflect various phylogenetic points of view.
+And yours?
+================================================================================
+
+Question: Talmudic Question #65
+Link: https://schaechter.asmblog.org/schaechter/2010/09/talmudic-question-65.html
+Text:
+What is it about the cyclic nature of nucleotides, both monomers and dimers, that makes them such favorites for signaling purposes?
+================================================================================
+
+Question: Talmudic Question #64
+Link: https://schaechter.asmblog.org/schaechter/2010/07/talmudic-question-64.html
+Text:
+by Ramy Aziz
+Are any human-associated biofilms "useful" or "beneficial" to human health?
+================================================================================
+
+Question: Talmudic Question #63
+Link: https://schaechter.asmblog.org/schaechter/2010/06/talmudic-question-63.html
+Text:
+by Stan Zahler
+When you streak out Your Favorite Bacterium on an appropriate agar plate, the colonies reach an expected diameter and stop growing. Why?
+Corollary: If you inoculate YFB in the center of an agar plate and incubate it, it would reach its expected diameter. What do you predict would happen if you touch the tip of a sterile hair to the edge of the colony, draw it out on the agar radially, and re-incubate the plate?
+================================================================================
+
+Question: Talmudic Question #62
+Link: https://schaechter.asmblog.org/schaechter/2010/05/talmudic-question-62.html
+Text:
+What if all prokaryotic plasmids on this planet went on strike and refused to have their genes expressed?
+================================================================================
+
+Question: Talmudic Question #61
+Link: https://schaechter.asmblog.org/schaechter/2010/04/talmudic-question-61.html
+Text:
+Endocytosis is said to be an exclusively eukaryotic property. Why did prokaryotes not develop this ability?
+================================================================================
+
+Question: Talmudic Question #60
+Link: https://schaechter.asmblog.org/schaechter/2010/04/talmudic-question-60.html
+Text:
+Are there more different viral "species" or different plasmid genomes on Earth?
+================================================================================
+
+Question: Talmudic Question #59
+Link: https://schaechter.asmblog.org/schaechter/2010/03/talmudic-question-59.html
+Text:
+Which prokaryotic cells are more abundant on Earth: planktonic (free living) or sessile (adhering to surfaces)? Keep in mind that the ocean waters contain abundant floating surfaces, for example, marine snow.
+================================================================================
+
+Question: Talmudic Question #58
+Link: https://schaechter.asmblog.org/schaechter/2010/02/talmudic-question-58.html
+Text:
+What if all phages on this planet went on strike and refused to have their genes expressed?
+================================================================================
+
+Question: Talmudic Question #57
+Link: https://schaechter.asmblog.org/schaechter/2010/01/talmudic-question-57.html
+Text:
+by Frank Harold
+Does anyone know of a solid example of a biological membrane that arises de novo, rather than by the ex­tension of a pre-existing membrane?
+================================================================================
+
+Question: Talmudic Question #56
+Link: https://schaechter.asmblog.org/schaechter/2009/12/talmudic-question-56.html
+Text:
+The genie has returned. (He first visited here.) During a moonlit walk on the beach, you stub your toe against a bottle, which rolls against a rock and shatters. A genie is liberated, eager to grant you one wish. You ask for a mi­crobiological laboratory fully equipped to your specifi­ca­tions. The genie grants you that but with the condition that you can study only one organism. Which would you choose?
+================================================================================
+
+Question: Talmudic Question #55
+Link: https://schaechter.asmblog.org/schaechter/2009/11/talmudic-question-55.html
+Text:
+The Central Dogma of Molecular Biology has never been seriously challenged. Here is your chance: can you con­ceive of a mechanism whereby genetic information can flow directly from proteins to nucleic acids?
+================================================================================
+
+Question: Talmudic Question #54
+Link: https://schaechter.asmblog.org/schaechter/2009/10/talmudic-question-54.html
+Text:
+Some believe that the extent of anaerobic respiration on Earth is usually underestimated. What is your guess for the proportion of biogenic CO2 that is made by this mechanism?
+================================================================================
+
+Question: Talmudic Question #53A
+Link: https://schaechter.asmblog.org/schaechter/2009/09/talmudic-question-53.html
+Text:
+In recent years, the use of radioactive isotopes has diminished considerably in microbiological re­search. What has been lost in the process?
+Commentary by Elio
+Source
+This is a nostalgia trip. Molecular microbiologists of my generation re­lied on the use of radioactive isotopes for much of their research. In those days, the size of a de­partment's research effort could be mea­sured by the number of scintillation counters it had at its disposal. Ra­dioactivity was a convenient way of detecting and quan­titating very small amounts of cell constituents. This has now been superseded by fluorescence and other non-radioactive methods. However, there are some things that radioactive isotopes do best. Thus, they are still in use. Here are two such uses.
+These days, when I mention radioactive isotopes, the response I get tends to focus on the dangers of working with them. Well, in the past we were not only careful but also aware of what constitutes danger. Mostly, we worked under safe conditions. Or so we thought. And I'm still around, many millicuries of 32P later.
+================================================================================
+
+Question: Talmudic Question #52
+Link: https://schaechter.asmblog.org/schaechter/2009/08/talmudic-question-52.html
+Text:
+by Mark O. Martin
+Given the ubiquity of intracellular associations between eu­karyotes and prokaryotes, why are there so few re­ports of prokaryotes living "within" prokaryotes? In fact, I can only think of one reported case.
+================================================================================
+
+Question: Talmudic Question #51
+Link: https://schaechter.asmblog.org/schaechter/2009/07/talmudic-question-51.html
+Text:
+Is it possible that prototypical bacterial endospores (e.g., those of Bacillus subtilis) carry out some metabolic ac­tivities, albeit at extremely slow rates?
+================================================================================
+
+Question: About Our Talmudic Questions
+Link: https://schaechter.asmblog.org/schaechter/2009/06/about-our-talmudic-questions.html
+Text:
+by Elio
+Source
+We have now posted Talmudic Question #50, so this may be a time to reflect on this endeavor. True to our intent, these have been questions that have no definitive an­swers but most of the responses offered thoughtful con­jectures. The pleasure resides in contemplating the ques­tion. What deeper meaning lies therein?
+As an aside, the question "how many angels can dance on the head of a pin" may sound Talmudic but actually has a totally different origin, as discussed here.
+The source of these Talmudic Questions? Notably, about one quarter were submitted by aficionados among our readers, and we are mighty glad for it. Those are among the very best. The rest arose from an inventory of questions carried along through the years, or that popped up at night during moments of wakefulness. As always, we have several more waiting in the wings. The well seems inexhaustible.
+We hope that you enjoy this exercise and that you will share your answers with us. Better yet, consider sending us your own Talmudic Questions. We know that there is at least one taking shape in each of you.
+================================================================================
+
+Question: Talmudic Question #50
+Link: https://schaechter.asmblog.org/schaechter/2009/06/talmudic-question-50.html
+Text:
+What do you think are the most interesting questions in present day microbiology?
+================================================================================
+
+Question: Talmudic Question #49
+Link: https://schaechter.asmblog.org/schaechter/2009/05/talmudic-question-49.html
+Text:
+by Ian Booth
+Do bacteria ever take up intact RNA molecules?
+================================================================================
+
+Question: Talmudic Question #48
+Link: https://schaechter.asmblog.org/schaechter/2009/05/talmudic-question-48.html
+Text:
+Can you think of an example of an intact protein mo­lecule being taken up by a free-living bacterium?
+We jumped the gun and departed from the usual format by sending this question in advance to a few people. This netted us some intriguing thoughts from Jon Beckwith, Winfried Boos, Ian, Booth, and Andrew Wright, plus notes from a few others who told us they couldn't come up with much. Now it's your turn. Please don’t be deterred from adding your ideas and comments.
+Here’s what we have so far:
+Why would we want to know? This qualifies as another Talmudic Question itself. But not to prolong matters, here are some of our answers:
+================================================================================
+
+Question: Talmudic Question #47
+Link: https://schaechter.asmblog.org/schaechter/2009/04/t.html
+Text:
+My microbiome and I are in balance and harmony, which seems miraculous. I wish you the same regularity. Here's a thorny question that arises. We know that our bacteria communicate with our body, but what do we know about what our body tells our bacteria?
+================================================================================
+
+Question: Talmudic Question #46
+Link: https://schaechter.asmblog.org/schaechter/2009/03/talmudic-question-46.html
+Text:
+by Daniel Portnoy
+Why don't mammals make antibiotics of the type so readily made by bacteria and fungi?
+================================================================================
+
+Question: Talmudic Question #45
+Link: https://schaechter.asmblog.org/schaechter/2009/02/talmudic-question-45.html
+Text:
+What do you think are the most interesting unsolved questions in E. coli and Salmonella research?
+================================================================================
+
+Question: Talmudic Question #44
+Link: https://schaechter.asmblog.org/schaechter/2009/02/talmudic-question-44-1.html
+Text:
+by Welkin Johnson
+It is possible that some viruses evolved from free living organisms, shedding their independent functions on the path to becoming "obligatory intracellular parasites." What minimal steps would be absolutely essential for this process to work in reverse, for a virus to slip the surly bonds of the cell and become an autonomously replicating unit?
+================================================================================
+
+Question: Talmudic Question #43
+Link: https://schaechter.asmblog.org/schaechter/2009/01/talmudic-question-43.html
+Text:
+by Mark O. Martin
+How might the botulism bacillus, Clostridium botulinum, benefit from making botulinum toxin? (This question can be extended to the tetanus bacillus and its toxin, as well as to others.)
+================================================================================
+
+Question: Talmudic Question #42
+Link: https://schaechter.asmblog.org/schaechter/2008/12/talmudic-question-42.html
+Text:
+Given that horizontal gene transfer between and among prokaryotes seems to be a relatively frequent oc­currence, why does it appear to be so rare between prokaryotes and eukaryotes (except perhaps in early times)?
+================================================================================
+
+Question: Talmudic Question #41
+Link: https://schaechter.asmblog.org/schaechter/2008/11/talmudic-question-41.html
+Text:
+Bacteria are prey to bacteriophages, other bacteria, protists, and fungi. Can you think of a mechanism that all these predators may have in common?
+================================================================================
+
+Question: Talmudic Question #40
+Link: https://schaechter.asmblog.org/schaechter/2008/11/talmudic-question-40.html
+Text:
+by Richard Moxon
+Can you think of any human disease that does not have a possible microbial component?
+================================================================================
+
+Question: Talmudic Question #39
+Link: https://schaechter.asmblog.org/schaechter/2008/10/talmudic-questi.html
+Text:
+Except for viroids, can you think of any place where there are "naked," (capsidless) viruses outside of hosts?
+================================================================================
+
+Question: Talmudic Question #38
+Link: https://schaechter.asmblog.org/schaechter/2008/09/talmudic-questi.html
+Text:
+Not a novel question, but nevertheless …what’s the current thinking as to why early RNA life went the way of making double-stranded DNA instead of double-stranded RNA? (Yes, dsRNA is extra stable, but there are ways around that.)
+================================================================================
+
+Question: Talmudic Question #37
+Link: https://schaechter.asmblog.org/schaechter/2008/08/talmudic-questi.html
+Text:
+by Rob Edwards
+What's the lowest temperature at which microbes can grow? Clearly it is below 0°C and above −273°C, so we have a range. See a review on the topic.
+Likewise, what's the hottest temperature for growth?
+================================================================================
+
+Question: Talmudic Question #36
+Link: https://schaechter.asmblog.org/schaechter/2008/07/talmudic-ques-1.html
+Text:
+by Qetzal
+Why are essentially all complex multicellular organisms eukaryotes?
+================================================================================
+
+Question: Talmudic Question #35
+Link: https://schaechter.asmblog.org/schaechter/2008/07/talmudic-questi.html
+Text:
+In Twisted Bacteria, César Sanchez poses the question: Why don't plants have any chlamydial symbionts? He proposes several possible answers and invites further speculation. We suggest you go to his website and post your comments there.
+================================================================================
+
+Question: Talmudic Question #34
+Link: https://schaechter.asmblog.org/schaechter/2008/06/talmudic-ques-1.html
+Text:
+We may be revealing our ignorance, but we are under the impression that although there are giant bacteria, there are no giant archaea. If this is the case, why might this be so?
+================================================================================
+
+Question: Talmudic Question #33
+Link: https://schaechter.asmblog.org/schaechter/2008/06/talmudic-questi.html
+Text:
+Imagine that we could completely get rid of the microbial biofilms found on all natural surfaces, including rocks and soil particles in and out of water. I don’t mean by scrubbing each one with a brush, but by some equally implausible process. What would be the consequences for the biogeochemical cycles of the planet?
+================================================================================
+
+Question: The Blog in the Classroom
+Link: https://schaechter.asmblog.org/schaechter/2008/05/one-classroom-o.html
+Text:
+by Elio
+Students in Integrative Microbiology, a graduate course taught jointly by the University of California at San Diego and the San Diego State University, could fulfill an assign­ment by optionally answering either one of two specified Talmudic Questions. Their answers are now posted as comments under each of the posts. They make good reading.
+Talmudic Question #30. Many bacteria, e.g., E. coli and B. subtilis, regulate their gene expression via a large number of distinct devices that operate on almost all conceivable biochemical levels. Why so many?
+Talmudic Question # 6. With the buzz created by the discovery of giant viruses, e.g., Mimivirus, the distinction between viruses and cells is said to get blurred. I maintain that this is not the case be­cause the single most important distinction is that viruses lose their corporeal integrity, cells do not. What do you think? Are you a blurrer or a non-blurrer?
+================================================================================
+
+Question: Talmudic Question #32
+Link: https://schaechter.asmblog.org/schaechter/2008/05/talmudic-questi.html
+Text:
+Which group of bacteria and archaea is more abundant on Earth (by mass): obligate aerobes, obligate anaerobes, facultatives, or obligate anaerobic respirers?
+================================================================================
+
+Question: Talmudic Question #31
+Link: https://schaechter.asmblog.org/schaechter/2008/04/talmudic-questi.html
+Text:
+Many unicellular protists have a very complex body plan. One can find "legs" (see our posting on Euplotidium), "mouths," food vacuoles, etc. Some of these structures reflect the feeding habits of the organisms. The question arises, why haven't they have become multicellular?
+================================================================================
+
+Question: Talmudic Question #30
+Link: https://schaechter.asmblog.org/schaechter/2008/03/talmudic-questi.html
+Text:
+Many bacteria, for example, E. coli and B. subtilis, re­gulate their gene expression via a large number of distinct devices that operate on almost all conceivable biochemical levels. Why so many?
+================================================================================
+
+Question: Talmudic Question #29
+Link: https://schaechter.asmblog.org/schaechter/2008/02/talmudic-ques-1.html
+Text:
+by Bob Murray
+What is the life expectancy for the descendants of a single bacterial cell under ideal or stressful conditions?
+================================================================================
+
+Question: Talmudic Question #28
+Link: https://schaechter.asmblog.org/schaechter/2008/02/talmudic-questi.html
+Text:
+The eukaryotic nuclear membrane is something of a mysterious structure and its origins are the subject of much debate. It would be interesting to hear a micro­biological view on the question: why is there a nuclear membrane?
+================================================================================
+
+Question: Talmudic Question #27
+Link: https://schaechter.asmblog.org/schaechter/2008/01/talmudic-ques-1.html
+Text:
+Do all genes have some homology with others? If all are derived from the genome of LUCA (Last Universal Com­mon Ancestor), the answer is easy. But, to start an ar­gument, what if there were extraneously made pieces of genetic material lying around waiting to be picked up by LUCA's descendents? (Courtesy of Enrique Merino and Ana Gutierrez)
+================================================================================
+
+Question: Talmudic Question #26
+Link: https://schaechter.asmblog.org/schaechter/2008/01/talmudic-questi.html
+Text:
+Given that hardly anything in biology is more central yet more elusive than the concept of species, can you con­ceive of a way to portray evolutionary history that is not based on the species concept?
+================================================================================
+
+Question: Talmudic Question #25
+Link: https://schaechter.asmblog.org/schaechter/2007/12/talmudic-questi.html
+Text:
+by guest author Bill Martin
+This is our first multiple-part question.
+If one believes (as some out there do) that there was a free-living LUCA (Last Universal Common Ancestor), then what kind of lipids did it have?
+I. If eubacterial, then explain why it would evolve the archaebacterial type in the presence of a good lipid synthesis solution. (Bonus question: And why was that only done once?)
+II. If archaebacterial, then return to I) for the converse solution (with bonus).
+III. If both, explain why we do not invoke differential loss for everything that distinguishes archaebacteria from eubacteria, and explain what is wrong with Ford Doolittle's strong Genome of Eden argument, while recalling that LGT (lateral gene transfer) only explains similarities, not differences (an interesting observation).
+IV. If none, suggest what might have served to contain organics from their environment en route to self replication, recalling the so-called concentration problem (molecules must meet to react).
+V. If dissatisfied with I-IV, suggest where the LUCA might have got going as a non-free-living entity.
+VI. If disgusted with all of the foregoing, suggest a solution to compartmentation from the environment and the universality of chemiosmosis (except in a few derived fer­menters that live off autrotrophs) that circumvents I-V, recalling that thermodynamics is not just a good idea, it's the law. Put another way, thermodynamics is as close as it gets to a genuine logical constraint in biology.
+VII. If this leads you into origin of life literature, explain why it is written mostly by chemists and physicists who, by trade, do not understand much about microbes (their explanandum).
+VIII. Alternatively, formulate a better question.
+Bill is at the Botanical Institute III, University of Düsseldorf
+================================================================================
+
+Question: Talmudic Question #24
+Link: https://schaechter.asmblog.org/schaechter/2007/11/talmudic-ques-1.html
+Text:
+Why didn't mitochondria and chloroplasts cede all of their DNA to the nucleus, as did most hydrogenosomes and certain other organelles?
+================================================================================
+
+Question: Talmudic Question #23
+Link: https://schaechter.asmblog.org/schaechter/2007/11/talmudic-questi.html
+Text:
+Methanogenesis is characteristic of Archaea (and, ac­cording to some, plants as well). Why don't bacteria make methane? (Courtesy of David Lipson).
+================================================================================
+
+Question: Talmudic Question #22
+Link: https://schaechter.asmblog.org/schaechter/2007/10/talmudic-questi.html
+Text:
+by Elio
+Pseudomonas aeruginosa  is notorious for causing dis­ease across vast taxonomic terrain (insects, worms, vertebrates, plants). Which viruses have a comparably wide host range?
+Elio adds later:
+The comments on this Talmudic Question have been both enlightening and varied. I should now pipe in with another candidate for a virus that has a particularly wide host range, the Vesicular Stomatitis Virus (VSV, Rhabdoviridae). I had long known that VSV infects mammals and insects, but then some time ago I heard Sean Whelan from Harvard mentioning that it can be induced to infect yeast as well, although this is certainly not a natural host. He supplied the following references:
+The original description of the yeast experiments:
+Makarow, M., L. T. Nevalainen, and L. Kaariainen (1986) Expression of the RNA genome of an animal virus in Saccharomyces cerevisiae. Proc Natl Acad Sci U S A 83: 8117-21.
+The virus also replicates in C. elegans (for which there are currently no known natural viruses).
+Schott, D. H., D. K. Cureton, S. P. Whelan, and C. P. Hunter (2005) An antiviral role for the RNA interference machinery in Caenorhabditis elegans. Proc Natl Acad Sci U S A 102:18420-4.
+Wilkins, C., R. Dishongh, S. C. Moore, M. A. Whitt, M. Chow, and K. Machaca (2005) RNA interference is an antiviral defence mechanism in Caenorhabditis elegans. Nature 436:1044-7.
+================================================================================
+
+Question: Talmudic Question #21
+Link: https://schaechter.asmblog.org/schaechter/2007/09/talmudic-questi.html
+Text:
+by Elio
+Unlike many bacteria, which undergo undergo fancy mor­phological development (spores, hyphae, prosthecae, etc.), archaea do not. Why do you suppose this is?
+================================================================================
+
+Question: Talmudic Question #20
+Link: https://schaechter.asmblog.org/schaechter/2007/07/talmudic-ques-1.html
+Text:
+If viruses did not exist, could anyone have conjured them up?
+================================================================================
+
+Question: Talmudic Question #19
+Link: https://schaechter.asmblog.org/schaechter/2007/07/talmudic-questi.html
+Text:
+You are stranded on a desert island. During a walk on the beach, you stub your toe against a bottle, which rolls against a rock and breaks. A genie is liberated, eager to grant you one wish. You ask for a microbiological la­bo­ratory fully equipped to your specifications. The genie grants you that but with the condition that you can study only one sample. What sample would you collect for study, what would you do with it, and why?
+================================================================================
+
+Question: Talmudic Question #18
+Link: https://schaechter.asmblog.org/schaechter/2007/06/talmudic-questi.html
+Text:
+A good TQ is one that invites another question. We pre­viously asked: Invertebrates are said to have only innate immunity. Why do you suppose they have not evolved acquired immunity, as vertebrates have done?  Let us now turn it around and ask: Why have vertebrates evolved acquired immunity?
+================================================================================
+
+Question: Talmudic Question #17
+Link: https://schaechter.asmblog.org/schaechter/2007/05/talmudic_questi.html
+Text:
+What if someone discovered a fourth (or fifth, sixth, etc.) domain of life?
+================================================================================
+
+Question: Talmudic Question #16
+Link: https://schaechter.asmblog.org/schaechter/2007/04/talmudic_questi_3.html
+Text:
+Invertebrates are said to have only innate immuni­ty.
+Why do you suppose they have not evolved acquired immu­nity, as vertebrates have done?
+================================================================================
+
+Question: Talmudic Question #15
+Link: https://schaechter.asmblog.org/schaechter/2007/04/talmudic_questi_2.html
+Text:
+Why are only prokaryotes known to carry out biological nitrogen fixation?
+================================================================================
+
+Question: Talmudic Question #14
+Link: https://schaechter.asmblog.org/schaechter/2007/04/talmudic_questi_1.html
+Text:
+Why are so many more phyla of Gram-negative bacteria than of Gram-positives (at least in the more convention­al­ly used phylogenetic schemes)?
+================================================================================
+
+Question: Talmudic Question #13
+Link: https://schaechter.asmblog.org/schaechter/2007/04/talmudic_questi.html
+Text:
+Nitrogen-fixing bacteria in the root nodules of legumes differentiate into bacteroids, terminal cells incapable of reproduction. The nodules contain a few dormant bac­terial cells that can proliferate upon release from the plant. Why isn't the switch thrown for all cells?
+================================================================================
+
+Question: Talmudic Question #12
+Link: https://schaechter.asmblog.org/schaechter/2007/03/talmudic_questi_4.html
+Text:
+contributed by Miguel Vicente
+All living creatures are born, grow, reproduce and finally die. Consequently, as many flow without discontinuity from one cell to the next (Escherichia coli in the gut), a number of them do not grow (Salmonella enterica inside some phagosomes), others fail to reproduce (Mycobac­terium tuberculosis in latent infection) and, finally, some do not even die (Bacillus subtilis after sporulation) are bacteria alive?
+================================================================================
+
+Question: Talmudic Question #11
+Link: https://schaechter.asmblog.org/schaechter/2007/03/talmudic_questi_3.html
+Text:
+Can you think of any group of living organisms that is not host to some virus?
+================================================================================
+
+Question: Talmudic Question #10
+Link: https://schaechter.asmblog.org/schaechter/2007/03/talmudic_questi_2.html
+Text:
+Do we know for sure that there are only three domains of life (Bacteria, Archaea, Eukarya)?
+================================================================================
+
+Question: Talmudic Question #9
+Link: https://schaechter.asmblog.org/schaechter/2007/03/talmudic_questi_1.html
+Text:
+Given that spores are so effective in ensuring survival of bacteria, why don't all species make them?
+
+(Courtesy of Sabrina Perrino, who thought of this in class about five minutes after I did)
+================================================================================
+
+Question: Talmudic Question #8
+Link: https://schaechter.asmblog.org/schaechter/2007/03/talmudic_questi.html
+Text:
+Can you think of a place on Earth where there is free wa­ter  but no microbes? (A sterile flask of nutrient broth in a lab or an IV bag in a hospital don't count.)
+================================================================================
+
+Question: Talmudic Question #7
+Link: https://schaechter.asmblog.org/schaechter/2007/02/talmudic_questi.html
+Text:
+Despite recent findings that some archaea may partici­pate in oral disease, the question about their general absence from the Pantheon of Pathogens is still around.  Any new ideas as why they rarely if ever cause disease even though some are adapted to living in animal hosts (for example, the cow's rumen, the colon of humans).
+================================================================================
+
+Question: Talmudic Question #6
+Link: https://schaechter.asmblog.org/schaechter/2007/01/talmudic_questi_1.html
+Text:
+With the buzz created by the discovery of giant viruses, for example Mimivirus, the distinction between viruses and cells is said to get blurred. I maintain that this is not the case because the single most important distinction is that viruses lose their corporeal integrity, cells do not. What do you think? Are you a blurrer or a non-blurrer?
+An aside: Not everyone knows what a "Talmudic Question" is. Rather than telling you what I had in mind, would those who know share their definition?
+================================================================================
+
+Question: Talmudic Question #5
+Link: https://schaechter.asmblog.org/schaechter/2007/01/talmudic_questi.html
+Text:
+In a recent essay in Nature, Margaret McFall-Ngai  posits that with regards to intracellular bacteria, "Although widespread among invertebrates, such associations seem to be absent from vertebrates."  Can you think of an endosymbiont in a vertebrate? (mitochondria don't count.)
+================================================================================
+
+Question: Talmudic Question #4.1
+Link: https://schaechter.asmblog.org/schaechter/2006/12/talmudic_quesit_1.html
+Text:
+A guest TQ by Stanley Maloy
+Both of the scenarios proposed by David Lipson in an­swer to TQ #4 make perfect sense, but they only focus on bacteria external to plants and animals (as prompted in the question). However, you could also ask what would be the impact from the demise of the normal microbial biota. Would there be a rapid effect on plant and animal life or a slow effect?
+================================================================================
+
+Question: Talmudic Question #4
+Link: https://schaechter.asmblog.org/schaechter/2006/12/talmudic_quesit.html
+Text:
+What if all the bacteria and archaea on Earth decided to go on strike and stop their metabolism all at once? Which of the global cycles of matter would be affected first? How long would it take for life as we know it to come to a stop?
+================================================================================
+
+Question: Talmudic Question #3
+Link: https://schaechter.asmblog.org/schaechter/2006/12/talmudic_questi_1.html
+Text:
+Why are no bacterial pathogens known to use a Bdellovibrio-type of mechanism to penetrate into eukaryotic cells?
+================================================================================
+
+Question: Talmudic Question #2
+Link: https://schaechter.asmblog.org/schaechter/2006/12/another_talmudi.html
+Text:
+Why have nitrogen-fixing bacterial endosymbionts of plants not evolved into organelles (“azoplasts”)? (Ni­tro­genase’ sensitivity to oxygen is not a satisfying answer. Rhizobia have solved that problem!)
+================================================================================
+
+Question: Talmudic Question #1
+Link: https://schaechter.asmblog.org/schaechter/2006/12/talmudic_questi.html
+Text:
+Where on Earth would one expect to find a single species of microbes (a pure culture) for sustained periods of time? Symbioses (mutualistic or parasitic) do not count, neither do Petri dishes.
+================================================================================
