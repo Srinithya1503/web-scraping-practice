@@ -56,12 +56,9 @@ for idx, movie in enumerate(movie_list[:250], start=1):  # Extract all 250 movie
 
 # Save to DataFrame
 df = pd.DataFrame(movie_data)
-df.to_csv("IMDb_Top_250_with_votes.csv", index=False, encoding="utf-8", quoting=csv.QUOTE_NONE, escapechar='\\')
+df.to_csv("IMDb_Top_250_with_votes.tsv", index=False, encoding="utf-8", sep='\t')
 
-
-
-
-print("✅ Data saved to IMDb_Top_250_with_votes.csv")
+print("Data saved to IMDb_Top_250_with_votes.csv")
 
 # Close the driver
 driver.quit()
