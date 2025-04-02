@@ -102,7 +102,7 @@ while True:
             time.sleep(2)  # Pause to prevent blocking
 
         except Exception as e:
-            print(f"❌ Error scraping article {index + 1} on page {page}: {e}")
+            print(f"Error scraping article {index + 1} on page {page}: {e}")
             continue
 
     page += 1  # Move to next page
@@ -111,4 +111,4 @@ while True:
 df = pd.DataFrame(articles_data)
 excel_filename = "pubmed_myxobacteria_genome.xlsx"
 df.to_excel(excel_filename, index=False, engine="openpyxl")
-print(f"\n✅ Data saved to {excel_filename}")
+print(f"\nData saved to {excel_filename}")
