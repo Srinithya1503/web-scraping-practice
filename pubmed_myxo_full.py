@@ -18,25 +18,25 @@ page_num = 1
 max_pages = 2  # Limiting to the first two pages
 
 while page_num <= max_pages:
-    print(f"\n🔄 Scraping page {page_num}...\n")
+    print(f"\nScraping page {page_num}...\n")
 
     # Wait for articles to load
     WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CLASS_NAME, "docsum-wrap")))
     articles = driver.find_elements(By.CLASS_NAME, "docsum-wrap")
 
     if not articles:
-        print("❌ No articles found on this page!")
+        print("No articles found on this page!")
         break
 
     total_articles = len(articles)
-    print(f"📝 Found {total_articles} articles on page {page_num}.")
+    print(f"Found {total_articles} articles on page {page_num}.")
 
     for index in range(total_articles):
         try:
             # Refresh article elements to avoid stale references
             articles = driver.find_elements(By.CLASS_NAME, "docsum-wrap")
             if index >= len(articles):
-                print(f"⚠️ Skipping article {index + 1}, it no longer exists.")
+                print(f"Skipping article {index + 1}, it no longer exists.")
                 continue
 
             article = articles[index]
@@ -77,16 +77,16 @@ while page_num <= max_pages:
             time.sleep(3)
 
             try:
-                print("🔍 Attempting to extract abstract...")
+                print("Attempting to extract abstract...")
                 # Wait for the abstract element to load
                 abstract_element = WebDriverWait(driver, 10).until(
                     EC.presence_of_element_located((By.CSS_SELECTOR, "div.abstract-content.selected p"))
                 )
                 abstract = abstract_element.text.strip()
-                print(f"✅ Abstract extracted: {abstract[:50]}...")
+                print(f"Abstract extracted: {abstract[:50]}...")
             except Exception as e:
                 abstract = "No Abstract Found"
-                print(f"❌ Error extracting abstract: {e}")
+                print(f"Error extracting abstract: {e}")
                 print(f"Current URL: {driver.current_url}")
 
             driver.close()
@@ -103,9 +103,9 @@ while page_num <= max_pages:
             articles_data["Abstract"].append(abstract)
 
         except IndexError:
-            print(f"⚠️ IndexError: Skipping article {index + 1} (out of range).")
+            print(f"IndexError: Skipping article {index + 1} (out of range).")
         except Exception as e:
-            print(f"❌ Error scraping article {index + 1}: {e}")
+            print(f"Error scraping article {index + 1}: {e}")
 
     # Break after the first two pages
     if page_num >= max_pages:
@@ -121,13 +121,16 @@ while page_num <= max_pages:
         time.sleep(5)
         page_num += 1
     except:
-        print("\n🚀 No more pages found. Exiting...\n")
+        print("\nNo more pages found. Exiting...\n")
         break
 
 # Save to Excel
 df = pd.DataFrame(articles_data)
 df.to_excel("pubmed_myxobacteria_genome_2.xlsx", index=False)
-print("\n✅ Data saved to pubmed_myxobacteria_genome.xlsx")
+print("\n Data saved to pubmed_myxobacteria_genome.xlsx")
 
 # Close WebDriver
 driver.quit()
+excel_filename = "pubmed_myxobacteria_genome.xlsx"
+df.to_excel(excel_filename, index=False, engine="openpyxl")
+print(f"\nData saved to {excel_filename}")
