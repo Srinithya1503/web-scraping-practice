@@ -1,0 +1,4 @@
+Necessary libraries :
+beautifulsoup4
+pandas
+requests
